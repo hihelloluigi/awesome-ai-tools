@@ -1,0 +1,49 @@
+name: Suggest a tool
+description: Propose a new AI tool to be added to the list
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        👋 Thanks for suggesting a tool!  
+        Please note: **we do not add tools directly via issues.**  
+        Instead, open a Pull Request editing **`data/tools.csv`**.  
+        If you can’t make a PR yourself, fill out this form and a maintainer may add it later.
+
+  - type: input
+    id: name
+    attributes:
+      label: Tool name
+      placeholder: "MyCoolAI"
+
+  - type: input
+    id: url
+    attributes:
+      label: Official URL
+      placeholder: "https://example.com"
+
+  - type: input
+    id: category
+    attributes:
+      label: Suggested category
+      placeholder: "Agents, Design, Productivity, ..."
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Short description
+      placeholder: "One sentence, objective description"
+
+  - type: input
+    id: pricing
+    attributes:
+      label: Pricing
+      placeholder: "Free, Free tier + Pro, Paid, OSS"
+
+  - type: dropdown
+    id: oss
+    attributes:
+      label: Open Source?
+      options:
+        - "yes"
+        - "no"

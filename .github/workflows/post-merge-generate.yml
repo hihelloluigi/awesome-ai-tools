@@ -1,0 +1,30 @@
+name: Post-merge - regenerate README & JSON
+
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Generate README from CSV
+        run: python3 scripts/generate_readme.py
+
+      - name: Generate JSON from CSV
+        run: python3 scripts/generate_json.py
+
+      - name: Commit changes (if any)
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: regenerate README & JSON from CSV"
+          branch: main

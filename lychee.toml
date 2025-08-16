@@ -1,0 +1,30 @@
+# Files to check
+include = ["README.md", "data/tools.csv"]
+
+# Retry policy (helps with flaky sites)
+max_retries = 2
+retry_wait_time = 2   # seconds between retries
+timeout = 20          # seconds per request
+
+# Ignore patterns (common noise)
+exclude = [
+  "mailto:",
+  "localhost",
+  "127.0.0.1",
+  "://0.0.0.0",
+  "://example.com",
+  "://.*\\.onion",     # hidden services often flaky
+  "://.*\\.internal",  # internal networks
+  "://.*\\.local",
+  "utm_",              # ignore tracking params in example URLs
+]
+
+# Accept only good responses (strict but realistic)
+# 2xx = OK, 3xx = redirect OK
+accept = ["200..299", "300..399"]
+
+# Exceptions for services that often block GitHub Actions (bot traffic)
+[exceptions]
+"https://raw.githubusercontent.com/.*" = "CDN occasionally blocks CI IPs"
+"https://docs.google.com/.*" = "Google Docs often block CI bots"
+"https://medium.com/.*" = "Medium sometimes returns 403 to bots"

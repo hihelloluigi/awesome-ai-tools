@@ -1,0 +1,25 @@
+name: CI (validate CSV & generators)
+
+on:
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Run README generator (dry run)
+        run: python3 scripts/generate_readme.py
+
+      - name: Run JSON generator (dry run)
+        run: python3 scripts/generate_json.py
+
+      - name: Ensure repo unchanged
+        run: |
+          if [[ -n "$(git status --porcelain)" ]]; then
+            echo "::error::Files changed after generators ran. You should edit ONLY data/tools.csv. README.md and JSON are generated after merge."
+            git status --porcelain
+            exit 1
+          fi

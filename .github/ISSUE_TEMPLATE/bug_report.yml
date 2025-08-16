@@ -1,0 +1,23 @@
+name: Bug report
+description: Report a broken link or formatting issue
+labels: ["bug"]
+body:
+  - type: input
+    id: link
+    attributes:
+      label: Link that is broken
+      placeholder: "https://..."
+
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: Tell us what you expected vs what you saw.
+
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Checks
+      options:
+        - label: I verified the link is still broken.
+          required: true

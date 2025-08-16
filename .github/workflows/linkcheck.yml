@@ -1,0 +1,40 @@
+name: Link Check (lychee)
+
+on:
+  pull_request:
+    branches: [ main ]
+  schedule:
+    - cron: "0 3 * * 1"  # Mondays 03:00 UTC
+  workflow_dispatch:
+
+jobs:
+  lychee:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      # Install lychee
+      - name: Install lychee
+        id: lychee
+        uses: lycheeverse/lychee-action@v1
+        with:
+          # Use the repo-config if present
+          args: >
+            --config lychee.toml
+            --no-progress
+            --timeout 20
+            --max-redirects 5
+            README.md data/tools.csv
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # Post a comment on the PR if broken links are found
+      - name: Comment broken links
+        if: failure()  # only run if lychee step fails
+        uses: marocchino/sticky-pull-request-comment@v2
+        with:
+          header: linkcheck
+          message: |
+            🔗 **Link Check Failed**
+            Lychee found broken or unreachable links.  
+            Please update or remove invalid URLs in `data/tools.csv`.
