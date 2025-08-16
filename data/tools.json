@@ -1,0 +1,1346 @@
+[
+  {
+    "name": "Folk",
+    "url": "https://folk.app",
+    "category": "CRM Tools",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Streak",
+    "url": "https://www.streak.com",
+    "category": "CRM Tools",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "HubSpot",
+    "url": "https://hubspot.com",
+    "category": "CRM Tools",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Close",
+    "url": "https://www.close.com",
+    "category": "CRM Tools",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Pipedrive",
+    "url": "https://www.pipedrive.com",
+    "category": "CRM Tools",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Zoho CRM",
+    "url": "https://www.zoho.com/crm/",
+    "category": "CRM Tools",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Salesforce",
+    "url": "https://salesforce.com",
+    "category": "CRM Tools",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Freshsales",
+    "url": "https://www.freshworks.com/crm",
+    "category": "CRM Tools",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Keap",
+    "url": "https://keap.com",
+    "category": "CRM Tools",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Nimble",
+    "url": "https://www.nimble.com",
+    "category": "CRM Tools",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Mintlify",
+    "url": "https://mintlify.com/",
+    "category": "CRM Tools",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "AWS",
+    "url": "https://aws.amazon.com/startups",
+    "category": "CRM Tools",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Neo4j",
+    "url": "https://neo4j.com/product/neo4j-graph-database/",
+    "category": "CRM Tools",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Pinecone",
+    "url": "https://www.pinecone.io/product/",
+    "category": "CRM Tools",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Supabase",
+    "url": "nan",
+    "category": "CRM Tools",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Clerk",
+    "url": "nan",
+    "category": "CRM Tools",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Ocoya",
+    "url": "https://www.ocoya.com",
+    "category": "Social Media Auto.",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Predis.ai",
+    "url": "https://predis.ai",
+    "category": "Social Media Auto.",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Lately.ai",
+    "url": "https://www.lately.ai",
+    "category": "Social Media Auto.",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "SocialBee + AI",
+    "url": "https://socialbee.com",
+    "category": "Social Media Auto.",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Flick",
+    "url": "https://www.flick.social",
+    "category": "Social Media Auto.",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "ContentStudio",
+    "url": "https://contentstudio.io",
+    "category": "Social Media Auto.",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Copy.ai",
+    "url": "https://www.copy.ai",
+    "category": "Social Media Auto.",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Hootsuite OwlyWriter AI",
+    "url": "https://www.hootsuite.com",
+    "category": "Social Media Auto.",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Postly",
+    "url": "https://postly.ai",
+    "category": "Social Media Auto.",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Vista Social",
+    "url": "https://vistasocial.com",
+    "category": "Social Media Auto.",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Zoho",
+    "url": "nan",
+    "category": "Social Media Auto.",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Buffer",
+    "url": "https://buffer.com/",
+    "category": "Social Media Auto.",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Metricool",
+    "url": "nan",
+    "category": "Social Media Auto.",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Clay",
+    "url": "https://clay.com",
+    "category": "Lead Gen Tools",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Apollo.io",
+    "url": "https://apollo.io",
+    "category": "Lead Gen Tools",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Phantombuster",
+    "url": "https://phantombuster.com",
+    "category": "Lead Gen Tools",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "LeadIQ",
+    "url": "https://leadiq.com",
+    "category": "Lead Gen Tools",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Snov.io",
+    "url": "https://snov.io",
+    "category": "Lead Gen Tools",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Lusha",
+    "url": "https://www.lusha.com",
+    "category": "Lead Gen Tools",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Seamless.ai",
+    "url": "https://www.seamless.ai",
+    "category": "Lead Gen Tools",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Hunter.io",
+    "url": "https://hunter.io",
+    "category": "Lead Gen Tools",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Clearbit",
+    "url": "https://clearbit.com",
+    "category": "Lead Gen Tools",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Reply.io",
+    "url": "https://reply.io",
+    "category": "Lead Gen Tools",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Pika",
+    "url": "https://pika.art",
+    "category": "Video Gen Tools",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Runway",
+    "url": "https://runwayml.com",
+    "category": "Video Gen Tools",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Synthesia",
+    "url": "https://www.synthesia.io",
+    "category": "Video Gen Tools",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Colossyan",
+    "url": "https://www.colossyan.com",
+    "category": "Video Gen Tools",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Veed.io",
+    "url": "https://www.veed.io",
+    "category": "Video Gen Tools",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Descript",
+    "url": "https://www.descript.com",
+    "category": "Video Gen Tools",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Hour One",
+    "url": "https://www.hourone.ai",
+    "category": "Video Gen Tools",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Lumen5",
+    "url": "https://www.lumen5.com",
+    "category": "Video Gen Tools",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "HeyGen",
+    "url": "https://www.heygen.com",
+    "category": "Video Gen Tools",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "InVideo",
+    "url": "https://invideo.io",
+    "category": "Video Gen Tools",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Fireflies.ai",
+    "url": "https://fireflies.ai",
+    "category": "Note Taking Tools",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Otter.ai",
+    "url": "https://otter.ai",
+    "category": "Note Taking Tools",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "tl;dv",
+    "url": "https://tldv.io",
+    "category": "Note Taking Tools",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Scribbl",
+    "url": "https://www.scribbl.ai",
+    "category": "Note Taking Tools",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Notta",
+    "url": "https://www.notta.ai",
+    "category": "Note Taking Tools",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Avoma",
+    "url": "https://www.avoma.com",
+    "category": "Note Taking Tools",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Supernormal",
+    "url": "https://www.supernormal.com",
+    "category": "Note Taking Tools",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "MeetGeek",
+    "url": "https://meetgeek.ai",
+    "category": "Note Taking Tools",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Fathom",
+    "url": "https://fathom.video",
+    "category": "Note Taking Tools",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Airgram",
+    "url": "https://www.airgram.io",
+    "category": "Note Taking Tools",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Cursor",
+    "url": "https://www.cursor.so",
+    "category": "IDE Tools",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Replit Ghostwriter",
+    "url": "https://replit.com",
+    "category": "IDE Tools",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Tabnine",
+    "url": "https://www.tabnine.com",
+    "category": "IDE Tools",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "CodiumAI",
+    "url": "https://www.codium.ai",
+    "category": "IDE Tools",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Continue",
+    "url": "https://continue.dev",
+    "category": "IDE Tools",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Sourcegraph Cody",
+    "url": "https://sourcegraph.com/cody",
+    "category": "IDE Tools",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "MutableAI",
+    "url": "https://mutable.ai",
+    "category": "IDE Tools",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Windsurf",
+    "url": "https://windsurf.ai",
+    "category": "IDE Tools",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Kite (legacy)",
+    "url": "https://www.kite.com",
+    "category": "IDE Tools",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "ElevenLabs",
+    "url": "https://www.elevenlabs.io",
+    "category": "Voice",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Play.ht",
+    "url": "https://play.ht",
+    "category": "Voice",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Murf.ai",
+    "url": "https://murf.ai",
+    "category": "Voice",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "WellSaid Labs",
+    "url": "https://www.wellsaidlabs.com",
+    "category": "Voice",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "LOVO",
+    "url": "https://www.lovo.ai",
+    "category": "Voice",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Speechify",
+    "url": "https://speechify.com",
+    "category": "Voice",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Replica Studios",
+    "url": "https://replicastudios.com",
+    "category": "Voice",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Resemble.ai",
+    "url": "https://www.resemble.ai",
+    "category": "Voice",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "ReadSpeaker",
+    "url": "https://www.readspeaker.com",
+    "category": "Voice",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Narakeet",
+    "url": "https://www.narakeet.com",
+    "category": "Voice",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Langchain",
+    "url": "https://www.langchain.com",
+    "category": "Agents",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "AutoGen",
+    "url": "https://microsoft.github.io/autogen",
+    "category": "Agents",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "CrewAI",
+    "url": "https://www.crewai.com",
+    "category": "Agents",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "MetaGPT",
+    "url": "https://github.com/geekan/MetaGPT",
+    "category": "Agents",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Superagent",
+    "url": "https://superagent.sh",
+    "category": "Agents",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "GPT Engineer",
+    "url": "https://github.com/AntonOsika/gpt-engineer",
+    "category": "Agents",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "OpenAgents",
+    "url": "https://github.com/openagent/openagent",
+    "category": "Agents",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Camel",
+    "url": "https://github.com/camel-ai/camel",
+    "category": "Agents",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Agnai",
+    "url": "https://github.com/agnai/agnai",
+    "category": "Agents",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "AI Town",
+    "url": "https://github.com/a16z-infra/ai-town",
+    "category": "Agents",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Canva Magic Design",
+    "url": "https://www.canva.com/magic-design",
+    "category": "Design",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Uizard",
+    "url": "https://uizard.io",
+    "category": "Design",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Looka",
+    "url": "https://looka.com",
+    "category": "Design",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Khroma",
+    "url": "https://www.khroma.co",
+    "category": "Design",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "AutoDraw",
+    "url": "https://www.autodraw.com",
+    "category": "Design",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Designs.ai",
+    "url": "https://designs.ai",
+    "category": "Design",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "LetSENs Enhance",
+    "url": "https://letsenhance.io",
+    "category": "Design",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Remove.bg",
+    "url": "https://remove.bg",
+    "category": "Design",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Figma AI",
+    "url": "https://figma.com",
+    "category": "Design",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Illustroke",
+    "url": "https://illustroke.com",
+    "category": "Design",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Harness",
+    "url": "https://harness.io",
+    "category": "DevOps",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "GitHub Copilot",
+    "url": "https://github.com/features/copilot",
+    "category": "DevOps",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Ansible Lightspeed",
+    "url": "https://www.ansible.com",
+    "category": "DevOps",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Jenkins + AI plugins",
+    "url": "https://www.jenkins.io",
+    "category": "DevOps",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "FireHydrant",
+    "url": "https://firehydrant.com",
+    "category": "DevOps",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Sentry + AI",
+    "url": "https://sentry.io",
+    "category": "DevOps",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "DataDog + AI",
+    "url": "https://www.datadoghq.com",
+    "category": "DevOps",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Botkube",
+    "url": "https://www.botkube.io",
+    "category": "DevOps",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Relay by Puppet",
+    "url": "https://relay.sh",
+    "category": "DevOps",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Rookout",
+    "url": "https://www.rookout.com",
+    "category": "DevOps",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "ChatGPT",
+    "url": "https://chat.openai.com",
+    "category": "Personal Assistants",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Claude",
+    "url": "https://www.anthropic.com/index/claude",
+    "category": "Personal Assistants",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Perplexity",
+    "url": "https://www.perplexity.ai",
+    "category": "Personal Assistants",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Pi (Inflection AI)",
+    "url": "https://heypi.com",
+    "category": "Personal Assistants",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Rewind",
+    "url": "https://www.rewind.ai",
+    "category": "Personal Assistants",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Quora Poe",
+    "url": "https://poe.com",
+    "category": "Personal Assistants",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Lindy",
+    "url": "https://www.lindy.ai",
+    "category": "Personal Assistants",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "xAI Grok",
+    "url": "https://x.ai",
+    "category": "Personal Assistants",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "HyperWrite",
+    "url": "https://www.hyperwriteai.com",
+    "category": "Personal Assistants",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Humata",
+    "url": "https://www.humata.ai",
+    "category": "Personal Assistants",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Tome",
+    "url": "https://tome.app",
+    "category": "Pitch & Slides",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Beautiful.ai",
+    "url": "https://www.beautiful.ai",
+    "category": "Pitch & Slides",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Gamma",
+    "url": "https://gamma.app",
+    "category": "Pitch & Slides",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "SlidesAI",
+    "url": "https://www.slidesai.io",
+    "category": "Pitch & Slides",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Decktopus",
+    "url": "https://www.decktopus.com",
+    "category": "Pitch & Slides",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Storydoc",
+    "url": "https://www.storydoc.com",
+    "category": "Pitch & Slides",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Sendsteps",
+    "url": "https://www.sendsteps.com",
+    "category": "Pitch & Slides",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Simplified",
+    "url": "https://simplified.com",
+    "category": "Pitch & Slides",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Pitch",
+    "url": "https://pitch.com",
+    "category": "Pitch & Slides",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Visme",
+    "url": "https://www.visme.co",
+    "category": "Pitch & Slides",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Notion AI",
+    "url": "https://www.notion.so/product/ai",
+    "category": "Productivity",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Motion",
+    "url": "https://www.usemotion.com",
+    "category": "Productivity",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "ClickUp AI",
+    "url": "https://clickup.com",
+    "category": "Productivity",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Superhuman",
+    "url": "https://superhuman.com",
+    "category": "Productivity",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Magical",
+    "url": "https://www.getmagical.com",
+    "category": "Productivity",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Clockwise",
+    "url": "https://www.getclockwise.com",
+    "category": "Productivity",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Akiflow",
+    "url": "https://akiflow.com",
+    "category": "Productivity",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Mem",
+    "url": "https://mem.ai",
+    "category": "Productivity",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "x.ai (legacy)",
+    "url": "https://x.ai",
+    "category": "Productivity",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Todoist + AI",
+    "url": "https://todoist.com",
+    "category": "Productivity",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Zeni",
+    "url": "https://www.zeni.ai",
+    "category": "Finance",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Pilot",
+    "url": "https://pilot.com",
+    "category": "Finance",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Bench",
+    "url": "https://bench.co",
+    "category": "Finance",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Taktile",
+    "url": "https://www.taktile.com",
+    "category": "Finance",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Indy",
+    "url": "https://weareindy.com",
+    "category": "Finance",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Fyle",
+    "url": "https://www.fylehq.com",
+    "category": "Finance",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Expensify",
+    "url": "https://www.expensify.com",
+    "category": "Finance",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "QuickBooks + AI",
+    "url": "https://quickbooks.intuit.com",
+    "category": "Finance",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Ramp",
+    "url": "https://ramp.com",
+    "category": "Finance",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Fincent",
+    "url": "https://fincent.com",
+    "category": "Finance",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Intercom Fin",
+    "url": "https://www.intercom.com",
+    "category": "Cust. Support",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Tidio",
+    "url": "https://www.tidio.com",
+    "category": "Cust. Support",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Freshchat",
+    "url": "https://freshchat.com",
+    "category": "Cust. Support",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Crisp",
+    "url": "https://crisp.chat",
+    "category": "Cust. Support",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Drift",
+    "url": "https://www.drift.com",
+    "category": "Cust. Support",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Zowie",
+    "url": "https://getzowie.com",
+    "category": "Cust. Support",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Ada",
+    "url": "https://www.ada.cx",
+    "category": "Cust. Support",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Help Scout",
+    "url": "https://www.helpscout.com",
+    "category": "Cust. Support",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Forethought",
+    "url": "https://forethought.ai",
+    "category": "Cust. Support",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "ChatBot.com",
+    "url": "https://www.chatbot.com",
+    "category": "Cust. Support",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Spellbook",
+    "url": "https://www.spellbook.legal",
+    "category": "Legal",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "DoNotPay",
+    "url": "https://donotpay.com",
+    "category": "Legal",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Harvey",
+    "url": "https://www.harvey.ai",
+    "category": "Legal",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "LawGeex",
+    "url": "https://www.lawgeex.com",
+    "category": "Legal",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Luminance",
+    "url": "https://www.luminance.com",
+    "category": "Legal",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Legalsifter",
+    "url": "https://www.legalsifter.com",
+    "category": "Legal",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Casetext (CoCounsel)",
+    "url": "https://casetext.com",
+    "category": "Legal",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Ailira",
+    "url": "https://www.ailira.com",
+    "category": "Legal",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Loio",
+    "url": "https://loio.com",
+    "category": "Legal",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Juro",
+    "url": "https://juro.com",
+    "category": "Legal",
+    "description": "",
+    "pricing": "",
+    "oss": ""
+  }
+]
