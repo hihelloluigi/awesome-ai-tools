@@ -1,169 +1,172 @@
-name,url,category,description,pricing,oss
-Folk,https://folk.app,CRM Tools,,,
-Streak,https://www.streak.com,CRM Tools,,,
-HubSpot,https://hubspot.com,CRM Tools,,,
-Close,https://www.close.com,CRM Tools,,,
-Pipedrive,https://www.pipedrive.com,CRM Tools,,,
-Zoho CRM,https://www.zoho.com/crm/,CRM Tools,,,
-Salesforce,https://salesforce.com,CRM Tools,,,
-Freshsales,https://www.freshworks.com/crm,CRM Tools,,,
-Keap,https://keap.com,CRM Tools,,,
-Nimble,https://www.nimble.com,CRM Tools,,,
-Mintlify,https://mintlify.com/,CRM Tools,,,
-AWS,https://aws.amazon.com/startups,CRM Tools,,,
-Neo4j,https://neo4j.com/product/neo4j-graph-database/,CRM Tools,,,
-Pinecone,https://www.pinecone.io/product/,CRM Tools,,,
-Supabase,nan,CRM Tools,,,
-Clerk,nan,CRM Tools,,,
-Ocoya,https://www.ocoya.com,Social Media Auto.,,,
-Predis.ai,https://predis.ai,Social Media Auto.,,,
-Lately.ai,https://www.lately.ai,Social Media Auto.,,,
-SocialBee + AI,https://socialbee.com,Social Media Auto.,,,
-Flick,https://www.flick.social,Social Media Auto.,,,
-ContentStudio,https://contentstudio.io,Social Media Auto.,,,
-Copy.ai,https://www.copy.ai,Social Media Auto.,,,
-Hootsuite OwlyWriter AI,https://www.hootsuite.com,Social Media Auto.,,,
-Postly,https://postly.ai,Social Media Auto.,,,
-Vista Social,https://vistasocial.com,Social Media Auto.,,,
-Zoho,nan,Social Media Auto.,,,
-Buffer,https://buffer.com/,Social Media Auto.,,,
-Metricool,nan,Social Media Auto.,,,
-Clay,https://clay.com,Lead Gen Tools,,,
-Apollo.io,https://apollo.io,Lead Gen Tools,,,
-Phantombuster,https://phantombuster.com,Lead Gen Tools,,,
-LeadIQ,https://leadiq.com,Lead Gen Tools,,,
-Snov.io,https://snov.io,Lead Gen Tools,,,
-Lusha,https://www.lusha.com,Lead Gen Tools,,,
-Seamless.ai,https://www.seamless.ai,Lead Gen Tools,,,
-Hunter.io,https://hunter.io,Lead Gen Tools,,,
-Clearbit,https://clearbit.com,Lead Gen Tools,,,
-Reply.io,https://reply.io,Lead Gen Tools,,,
-Pika,https://pika.art,Video Gen Tools,,,
-Runway,https://runwayml.com,Video Gen Tools,,,
-Synthesia,https://www.synthesia.io,Video Gen Tools,,,
-Colossyan,https://www.colossyan.com,Video Gen Tools,,,
-Veed.io,https://www.veed.io,Video Gen Tools,,,
-Descript,https://www.descript.com,Video Gen Tools,,,
-Hour One,https://www.hourone.ai,Video Gen Tools,,,
-Lumen5,https://www.lumen5.com,Video Gen Tools,,,
-HeyGen,https://www.heygen.com,Video Gen Tools,,,
-InVideo,https://invideo.io,Video Gen Tools,,,
-Fireflies.ai,https://fireflies.ai,Note Taking Tools,,,
-Otter.ai,https://otter.ai,Note Taking Tools,,,
-tl;dv,https://tldv.io,Note Taking Tools,,,
-Scribbl,https://www.scribbl.ai,Note Taking Tools,,,
-Notta,https://www.notta.ai,Note Taking Tools,,,
-Avoma,https://www.avoma.com,Note Taking Tools,,,
-Supernormal,https://www.supernormal.com,Note Taking Tools,,,
-MeetGeek,https://meetgeek.ai,Note Taking Tools,,,
-Fathom,https://fathom.video,Note Taking Tools,,,
-Airgram,https://www.airgram.io,Note Taking Tools,,,
-Cursor,https://www.cursor.so,IDE Tools,,,
-Replit Ghostwriter,https://replit.com,IDE Tools,,,
-Tabnine,https://www.tabnine.com,IDE Tools,,,
-CodiumAI,https://www.codium.ai,IDE Tools,,,
-Continue,https://continue.dev,IDE Tools,,,
-Sourcegraph Cody,https://sourcegraph.com/cody,IDE Tools,,,
-MutableAI,https://mutable.ai,IDE Tools,,,
-Windsurf,https://windsurf.ai,IDE Tools,,,
-Kite (legacy),https://www.kite.com,IDE Tools,,,
-ElevenLabs,https://www.elevenlabs.io,Voice,,,
-Play.ht,https://play.ht,Voice,,,
-Murf.ai,https://murf.ai,Voice,,,
-WellSaid Labs,https://www.wellsaidlabs.com,Voice,,,
-LOVO,https://www.lovo.ai,Voice,,,
-Speechify,https://speechify.com,Voice,,,
-Replica Studios,https://replicastudios.com,Voice,,,
-Resemble.ai,https://www.resemble.ai,Voice,,,
-ReadSpeaker,https://www.readspeaker.com,Voice,,,
-Narakeet,https://www.narakeet.com,Voice,,,
-Langchain,https://www.langchain.com,Agents,,,
-AutoGen,https://microsoft.github.io/autogen,Agents,,,
-CrewAI,https://www.crewai.com,Agents,,,
-MetaGPT,https://github.com/geekan/MetaGPT,Agents,,,
-Superagent,https://superagent.sh,Agents,,,
-GPT Engineer,https://github.com/AntonOsika/gpt-engineer,Agents,,,
-OpenAgents,https://github.com/openagent/openagent,Agents,,,
-Camel,https://github.com/camel-ai/camel,Agents,,,
-Agnai,https://github.com/agnai/agnai,Agents,,,
-AI Town,https://github.com/a16z-infra/ai-town,Agents,,,
-Canva Magic Design,https://www.canva.com/magic-design,Design,,,
-Uizard,https://uizard.io,Design,,,
-Looka,https://looka.com,Design,,,
-Khroma,https://www.khroma.co,Design,,,
-AutoDraw,https://www.autodraw.com,Design,,,
-Designs.ai,https://designs.ai,Design,,,
-LetSENs Enhance,https://letsenhance.io,Design,,,
-Remove.bg,https://remove.bg,Design,,,
-Figma AI,https://figma.com,Design,,,
-Illustroke,https://illustroke.com,Design,,,
-Harness,https://harness.io,DevOps,,,
-GitHub Copilot,https://github.com/features/copilot,DevOps,,,
-Ansible Lightspeed,https://www.ansible.com,DevOps,,,
-Jenkins + AI plugins,https://www.jenkins.io,DevOps,,,
-FireHydrant,https://firehydrant.com,DevOps,,,
-Sentry + AI,https://sentry.io,DevOps,,,
-DataDog + AI,https://www.datadoghq.com,DevOps,,,
-Botkube,https://www.botkube.io,DevOps,,,
-Relay by Puppet,https://relay.sh,DevOps,,,
-Rookout,https://www.rookout.com,DevOps,,,
-ChatGPT,https://chat.openai.com,Personal Assistants,,,
-Claude,https://www.anthropic.com/index/claude,Personal Assistants,,,
-Perplexity,https://www.perplexity.ai,Personal Assistants,,,
-Pi (Inflection AI),https://heypi.com,Personal Assistants,,,
-Rewind,https://www.rewind.ai,Personal Assistants,,,
-Quora Poe,https://poe.com,Personal Assistants,,,
-Lindy,https://www.lindy.ai,Personal Assistants,,,
-xAI Grok,https://x.ai,Personal Assistants,,,
-HyperWrite,https://www.hyperwriteai.com,Personal Assistants,,,
-Humata,https://www.humata.ai,Personal Assistants,,,
-Tome,https://tome.app,Pitch & Slides,,,
-Beautiful.ai,https://www.beautiful.ai,Pitch & Slides,,,
-Gamma,https://gamma.app,Pitch & Slides,,,
-SlidesAI,https://www.slidesai.io,Pitch & Slides,,,
-Decktopus,https://www.decktopus.com,Pitch & Slides,,,
-Storydoc,https://www.storydoc.com,Pitch & Slides,,,
-Sendsteps,https://www.sendsteps.com,Pitch & Slides,,,
-Simplified,https://simplified.com,Pitch & Slides,,,
-Pitch,https://pitch.com,Pitch & Slides,,,
-Visme,https://www.visme.co,Pitch & Slides,,,
-Notion AI,https://www.notion.so/product/ai,Productivity,,,
-Motion,https://www.usemotion.com,Productivity,,,
-ClickUp AI,https://clickup.com,Productivity,,,
-Superhuman,https://superhuman.com,Productivity,,,
-Magical,https://www.getmagical.com,Productivity,,,
-Clockwise,https://www.getclockwise.com,Productivity,,,
-Akiflow,https://akiflow.com,Productivity,,,
-Mem,https://mem.ai,Productivity,,,
-x.ai (legacy),https://x.ai,Productivity,,,
-Todoist + AI,https://todoist.com,Productivity,,,
-Zeni,https://www.zeni.ai,Finance,,,
-Pilot,https://pilot.com,Finance,,,
-Bench,https://bench.co,Finance,,,
-Taktile,https://www.taktile.com,Finance,,,
-Indy,https://weareindy.com,Finance,,,
-Fyle,https://www.fylehq.com,Finance,,,
-Expensify,https://www.expensify.com,Finance,,,
-QuickBooks + AI,https://quickbooks.intuit.com,Finance,,,
-Ramp,https://ramp.com,Finance,,,
-Fincent,https://fincent.com,Finance,,,
-Intercom Fin,https://www.intercom.com,Cust. Support,,,
-Tidio,https://www.tidio.com,Cust. Support,,,
-Freshchat,https://freshchat.com,Cust. Support,,,
-Crisp,https://crisp.chat,Cust. Support,,,
-Drift,https://www.drift.com,Cust. Support,,,
-Zowie,https://getzowie.com,Cust. Support,,,
-Ada,https://www.ada.cx,Cust. Support,,,
-Help Scout,https://www.helpscout.com,Cust. Support,,,
-Forethought,https://forethought.ai,Cust. Support,,,
-ChatBot.com,https://www.chatbot.com,Cust. Support,,,
-Spellbook,https://www.spellbook.legal,Legal,,,
-DoNotPay,https://donotpay.com,Legal,,,
-Harvey,https://www.harvey.ai,Legal,,,
-LawGeex,https://www.lawgeex.com,Legal,,,
-Luminance,https://www.luminance.com,Legal,,,
-Legalsifter,https://www.legalsifter.com,Legal,,,
-Casetext (CoCounsel),https://casetext.com,Legal,,,
-Ailira,https://www.ailira.com,Legal,,,
-Loio,https://loio.com,Legal,,,
-Juro,https://juro.com,Legal,,,
+name;url;category;description;pricing;oss
+Folk;https://folk.app;CRM Tools;AI-assisted CRM for pipeline tracking and outreach.;;
+Streak;https://www.streak.com;CRM Tools;Manage deals, leads, and email outreach with AI insights.;;
+HubSpot;https://hubspot.com;CRM Tools;Sales CRM with AI scoring, enrichment, and follow-ups.;;
+Close;https://www.close.com;CRM Tools;Centralize contacts and automate sales workflows using AI.;;
+Pipedrive;https://www.pipedrive.com;CRM Tools;AI-driven pipeline, forecasting, and account intelligence.;;
+Zoho CRM;https://www.zoho.com/crm;CRM Tools;AI-assisted CRM for pipeline tracking and outreach.;;
+Salesforce;https://salesforce.com;CRM Tools;Manage deals, leads, and email outreach with AI insights.;;
+Freshsales;https://www.freshworks.com/crm;CRM Tools;Sales CRM with AI scoring, enrichment, and follow-ups.;;
+Keap;https://keap.com;CRM Tools;Centralize contacts and automate sales workflows using AI.;;
+Nimble;https://www.nimble.com;CRM Tools;AI-driven pipeline, forecasting, and account intelligence.;;
+Mintlify;https://mintlify.com;CRM Tools;AI-assisted CRM for pipeline tracking and outreach.;;
+AWS;https://aws.amazon.com/startups;CRM Tools;Manage deals, leads, and email outreach with AI insights.;;
+Neo4j;https://neo4j.com/product/neo4j-graph-database;CRM Tools;Sales CRM with AI scoring, enrichment, and follow-ups.;;
+Pinecone;https://www.pinecone.io/product;CRM Tools;Centralize contacts and automate sales workflows using AI.;;
+Supabase;https://supabase.com;CRM Tools;Open-source Firebase alternative with database, auth, and storage.;;
+Clerk;https://clerk.com/;CRM Tools;Authentication and user management platform with AI-enhanced workflows.;;
+Ocoya;https://www.ocoya.com;Social Media Auto.;Schedule posts and generate captions with AI suggestions.;;
+Predis.ai;https://predis.ai;Social Media Auto.;Automate social publishing and optimize performance with AI.;;
+Lately.ai;https://www.lately.ai;Social Media Auto.;AI captions, queues, and analytics for social channels.;;
+SocialBee + AI;https://socialbee.com;Social Media Auto.;Repurpose content and plan calendars using AI.;;
+Flick;https://www.flick.social;Social Media Auto.;AI helps plan, write, and schedule social media posts.;;
+ContentStudio;https://contentstudio.io;Social Media Auto.;Schedule posts and generate captions with AI suggestions.;;
+Copy.ai;https://www.copy.ai;Social Media Auto.;Automate social publishing and optimize performance with AI.;;
+Hootsuite OwlyWriter AI;https://www.hootsuite.com;Social Media Auto.;AI captions, queues, and analytics for social channels.;;
+Postly;https://postly.ai;Social Media Auto.;Repurpose content and plan calendars using AI.;;
+Vista Social;https://vistasocial.com;Social Media Auto.;AI helps plan, write, and schedule social media posts.;;
+Buffer;https://buffer.com;Social Media Auto.;Schedule posts and generate captions with AI suggestions.;;
+Metricool;https://metricool.com/;Social Media Auto.;Analytics and scheduling platform for social media, ads, and content performance.;;
+Clay;https://clay.com;Lead Gen Tools;Find, enrich, and prioritize leads using AI.;;
+Apollo.io;https://apollo.io;Lead Gen Tools;Prospect discovery with AI enrichment and outreach.;;
+Phantombuster;https://phantombuster.com;Lead Gen Tools;AI scoring and enrichment for B2B lead generation.;;
+LeadIQ;https://leadiq.com;Lead Gen Tools;Automate prospecting and email outreach with AI.;;
+Snov.io;https://snov.io;Lead Gen Tools;AI-powered contact discovery and sequencing.;;
+Lusha;https://www.lusha.com;Lead Gen Tools;Find, enrich, and prioritize leads using AI.;;
+Seamless.ai;https://www.seamless.ai;Lead Gen Tools;Prospect discovery with AI enrichment and outreach.;;
+Hunter.io;https://hunter.io;Lead Gen Tools;AI scoring and enrichment for B2B lead generation.;;
+Clearbit;https://clearbit.com;Lead Gen Tools;Automate prospecting and email outreach with AI.;;
+Reply.io;https://reply.io;Lead Gen Tools;AI-powered contact discovery and sequencing.;;
+Pika;https://pika.art;Video Gen Tools;Create videos with AI scenes, captions, and voiceovers.;;
+Runway;https://runwayml.com;Video Gen Tools;Text-to-video and AI video editing in one tool.;;
+Synthesia;https://www.synthesia.io;Video Gen Tools;Generate and edit videos using AI-driven effects and cuts.;;
+Colossyan;https://www.colossyan.com;Video Gen Tools;AI video creation with templates, subtitles, and dubbing.;;
+Veed.io;https://www.veed.io;Video Gen Tools;Storyboard, generate, and refine videos with AI.;;
+Descript;https://www.descript.com;Video Gen Tools;Create videos with AI scenes, captions, and voiceovers.;;
+Hour One;https://www.hourone.ai;Video Gen Tools;Text-to-video and AI video editing in one tool.;;
+Lumen5;https://www.lumen5.com;Video Gen Tools;Generate and edit videos using AI-driven effects and cuts.;;
+HeyGen;https://www.heygen.com;Video Gen Tools;AI video creation with templates, subtitles, and dubbing.;;
+InVideo;https://invideo.io;Video Gen Tools;Storyboard, generate, and refine videos with AI.;;
+Fireflies.ai;https://fireflies.ai;Note Taking Tools;Transcribe meetings and summarize action items with AI.;;
+Otter.ai;https://otter.ai;Note Taking Tools;Real-time transcripts and automated summaries for calls.;;
+"tl;dv";https://tldv.io;Note Taking Tools;AI meeting notes with highlights, tasks, and follow-ups.;;
+Scribbl;https://www.scribbl.ai;Note Taking Tools;Record, transcribe, and summarize conversations using AI.;;
+Notta;https://www.notta.ai;Note Taking Tools;Automated note-taking with speaker labels and key points.;;
+Avoma;https://www.avoma.com;Note Taking Tools;Transcribe meetings and summarize action items with AI.;;
+Supernormal;https://www.supernormal.com;Note Taking Tools;Real-time transcripts and automated summaries for calls.;;
+MeetGeek;https://meetgeek.ai;Note Taking Tools;AI meeting notes with highlights, tasks, and follow-ups.;;
+Fathom;https://fathom.video;Note Taking Tools;Record, transcribe, and summarize conversations using AI.;;
+Airgram;https://www.airgram.io;Note Taking Tools;Automated note-taking with speaker labels and key points.;;
+Cursor;https://www.cursor.so;IDE Tools;AI code completions, refactors, and inline explanations.;;
+Replit Ghostwriter;https://replit.com;IDE Tools;Suggests functions, tests, and fixes as you code.;;
+Tabnine;https://www.tabnine.com;IDE Tools;AI pair-programmer for refactors and documentation.;;
+CodiumAI;https://www.codium.ai;IDE Tools;Autocomplete, debug help, and test generation with AI.;;
+Continue;https://continue.dev;IDE Tools;Review diffs and improve code quality using AI.;;
+Sourcegraph Cody;https://sourcegraph.com/cody;IDE Tools;AI code completions, refactors, and inline explanations.;;
+MutableAI;https://mutable.ai;IDE Tools;Suggests functions, tests, and fixes as you code.;;
+Windsurf;https://windsurf.ai;IDE Tools;AI pair-programmer for refactors and documentation.;;
+Bolt;https://bolt.new/;IDE Tools;It lets you generate apps instantly using AI, combining code scaffolding and hosting.;;
+Lovable;https://lovable.dev/;IDE Tools;Build full-stack apps visually with AI, no-code + generated code.;;
+Copycoder;https://copycoder.ai/;IDE Tools;AI-assisted code commenting, refactoring, and documentation.;;
+ElevenLabs;https://www.elevenlabs.io;Voice;Clone voices and synthesize speech with AI.;;
+Play.ht;https://play.ht;Voice;Generate natural-sounding speech and voiceovers using AI.;;
+Murf.ai;https://murf.ai;Voice;AI voice cloning for apps, games, and media.;;
+WellSaid Labs;https://www.wellsaidlabs.com;Voice;Text-to-speech with controllable emotion and style.;;
+LOVO;https://www.lovo.ai;Voice;Create voices and dubbing tracks powered by AI.;;
+Speechify;https://speechify.com;Voice;Clone voices and synthesize speech with AI.;;
+Replica Studios;https://replicastudios.com;Voice;Generate natural-sounding speech and voiceovers using AI.;;
+Resemble.ai;https://www.resemble.ai;Voice;AI voice cloning for apps, games, and media.;;
+ReadSpeaker;https://www.readspeaker.com;Voice;Text-to-speech with controllable emotion and style.;;
+Narakeet;https://www.narakeet.com;Voice;Create voices and dubbing tracks powered by AI.;;
+Langchain;https://www.langchain.com;Agents;Configurable AI agents to automate complex workflows.;;
+AutoGen;https://microsoft.github.io/autogen;Agents;Configurable AI agents to automate complex workflows.;;
+CrewAI;https://www.crewai.com;Agents;Autonomous agents for research, tasks, and integrations.;;
+MetaGPT;https://github.com/geekan/MetaGPT;Agents;Multi-step AI agents with tools and memory.;;
+Superagent;https://superagent.sh;Agents;Orchestrate tool-using AI agents for tasks.;;
+GPT Engineer;https://github.com/AntonOsika/gpt-engineer;Agents;Plan-and-act AI agents with feedback loops.;;
+OpenAgents;https://github.com/openagent/openagent;Agents;Configurable AI agents to automate complex workflows.;;
+Camel;https://github.com/camel-ai/camel;Agents;Autonomous agents for research, tasks, and integrations.;;
+Agnai;https://github.com/agnai/agnai;Agents;Multi-step AI agents with tools and memory.;;
+AI Town;https://github.com/a16z-infra/ai-town;Agents;Orchestrate tool-using AI agents for tasks.;;
+Canva Magic Design;https://www.canva.com/magic-design;Design;Create and refine visuals using AI prompts and styles.;;
+Uizard;https://uizard.io;Design;Generate images, mockups, and assets with AI.;;
+Looka;https://looka.com;Design;AI-assisted design for graphics, layouts, and branding.;;
+Khroma;https://www.khroma.co;Design;Prompt-based image creation and style variation with AI.;;
+AutoDraw;https://www.autodraw.com;Design;Design assets and illustrations generated by AI.;;
+Designs.ai;https://designs.ai;Design;Create and refine visuals using AI prompts and styles.;;
+LetSENs Enhance;https://letsenhance.io;Design;Generate images, mockups, and assets with AI.;;
+Remove.bg;https://remove.bg;Design;AI-assisted design for graphics, layouts, and branding.;;
+Figma AI;https://figma.com;Design;Prompt-based image creation and style variation with AI.;;
+Illustroke;https://illustroke.com;Design;Design assets and illustrations generated by AI.;;
+Lovart;https://www.lovart.ai/;Design;AI art creation tool, generates illustrations and concept art.;;
+MidJourney;https://www.midjourney.com/home;Design;AI platform that generates high-quality images from natural language prompts.;;
+Harness;https://harness.io;DevOps;AI assistance for CI/CD, monitoring, and incident response.;;
+GitHub Copilot;https://github.com/features/copilot;DevOps;Detect issues and suggest remediations using AI.;;
+Ansible Lightspeed;https://www.ansible.com;DevOps;AI copilots for infra changes, rollbacks, and runbooks.;;
+Jenkins + AI plugins;https://www.jenkins.io;DevOps;Automate checks and triage alerts with AI.;;
+FireHydrant;https://firehydrant.com;DevOps;Explain failures and propose fixes using AI.;;
+Sentry + AI;https://sentry.io;DevOps;AI assistance for CI/CD, monitoring, and incident response.;;
+DataDog + AI;https://www.datadoghq.com;DevOps;AI assistance for CI/CD, monitoring, and incident response.;;
+Botkube;https://www.botkube.io;DevOps;Detect issues and suggest remediations using AI.;;
+Relay by Puppet;https://relay.sh;DevOps;AI copilots for infra changes, rollbacks, and runbooks.;;
+Rookout;https://www.rookout.com;DevOps;AI copilots for infra changes, rollbacks, and runbooks.;;
+ChatGPT;https://chat.openai.com;Personal Assistants;General AI assistant for tasks, research, and reminders.;;
+Claude;https://www.anthropic.com/index/claude;Personal Assistants;Conversational help for drafting, planning, and answers.;;
+Perplexity;https://www.perplexity.ai;Personal Assistants;Ask questions, summarize, and automate tasks with AI.;;
+Pi (Inflection AI);https://heypi.com;Personal Assistants;Personal AI aide for notes, searches, and organization.;;
+Rewind;https://www.rewind.ai;Personal Assistants;Chat-based assistant to speed up daily workflows.;;
+Quora Poe;https://poe.com;Personal Assistants;General AI assistant for tasks, research, and reminders.;;
+Lindy;https://www.lindy.ai;Personal Assistants;Conversational help for drafting, planning, and answers.;;
+xAI Grok;https://x.ai;Personal Assistants;Ask questions, summarize, and automate tasks with AI.;;
+HyperWrite;https://www.hyperwriteai.com;Personal Assistants;Personal AI aide for notes, searches, and organization.;;
+Humata;https://www.humata.ai;Personal Assistants;Chat-based assistant to speed up daily workflows.;;
+Tome;https://tome.app;Pitch & Slides;Create slides and pitches with AI-written content and layouts.;;
+Beautiful.ai;https://www.beautiful.ai;Pitch & Slides;AI suggests outlines, visuals, and speaker notes for decks.;;
+Gamma;https://gamma.app;Pitch & Slides;Generate presentations quickly with templates and AI copy.;;
+SlidesAI;https://www.slidesai.io;Pitch & Slides;Turn ideas into slide decks using AI.;;
+Decktopus;https://www.decktopus.com;Pitch & Slides;Draft, design, and refine presentations with AI.;;
+Storydoc;https://www.storydoc.com;Pitch & Slides;Create slides and pitches with AI-written content and layouts.;;
+Sendsteps;https://www.sendsteps.com;Pitch & Slides;AI suggests outlines, visuals, and speaker notes for decks.;;
+Simplified;https://simplified.com;Pitch & Slides;Generate presentations quickly with templates and AI copy.;;
+Pitch;https://pitch.com;Pitch & Slides;Turn ideas into slide decks using AI.;;
+Visme;https://www.visme.co;Pitch & Slides;Draft, design, and refine presentations with AI.;;
+Notion AI;https://www.notion.so/product/ai;Productivity;Draft, summarize, and organize work faster using AI.;;
+Motion;https://www.usemotion.com;Productivity;Draft, summarize, and organize work faster using AI.;;
+ClickUp AI;https://clickup.com;Productivity;AI help for documents, tasks, and communications.;;
+Superhuman;https://superhuman.com;Productivity;Automate busywork and writing with AI assistance.;;
+Magical;https://www.getmagical.com;Productivity;Summaries, outlines, and task automation powered by AI.;;
+Clockwise;https://www.getclockwise.com;Productivity;Accelerate personal workflows with AI tools.;;
+Akiflow;https://akiflow.com;Productivity;Draft, summarize, and organize work faster using AI.;;
+Mem;https://mem.ai;Productivity;AI help for documents, tasks, and communications.;;
+x.ai (legacy);https://x.ai;Productivity;Automate busywork and writing with AI assistance.;;
+Todoist + AI;https://todoist.com;Productivity;Summaries, outlines, and task automation powered by AI.;;
+Zeni;https://www.zeni.ai;Finance;Forecasts, anomaly detection, and insights powered by AI.;;
+Pilot;https://pilot.com;Finance;AI helps reconcile, predict, and explain financials.;;
+Bench;https://bench.co;Finance;Detect fraud and produce forecasts using AI.;;
+Taktile;https://www.taktile.com;Finance;Generate reports and projections with AI assistance.;;
+Indy;https://weareindy.com;Finance;Financial analytics and planning accelerated by AI.;;
+Fyle;https://www.fylehq.com;Finance;Forecasts, anomaly detection, and insights powered by AI.;;
+Expensify;https://www.expensify.com;Finance;AI helps reconcile, predict, and explain financials.;;
+QuickBooks + AI;https://quickbooks.intuit.com;Finance;Detect fraud and produce forecasts using AI.;;
+Ramp;https://ramp.com;Finance;Generate reports and projections with AI assistance.;;
+Fincent;https://fincent.com;Finance;Financial analytics and planning accelerated by AI.;;
+Intercom Fin;https://www.intercom.com;Cust. Support;AI chat and tickets for faster customer support.;;
+Tidio;https://www.tidio.com;Cust. Support;Automate replies and triage with AI assistants.;;
+Freshchat;https://freshchat.com;Cust. Support;Suggest answers and draft responses using AI.;;
+Crisp;https://crisp.chat;Cust. Support;Deflect FAQs and route issues with AI.;;
+Drift;https://www.drift.com;Cust. Support;24/7 support automation and insights powered by AI.;;
+Zowie;https://getzowie.com;Cust. Support;AI chat and tickets for faster customer support.;;
+Ada;https://www.ada.cx;Cust. Support;AI chat and tickets for faster customer support.;;
+Help Scout;https://www.helpscout.com;Cust. Support;Automate replies and triage with AI assistants.;;
+Forethought;https://forethought.ai;Cust. Support;Suggest answers and draft responses using AI.;;
+ChatBot.com;https://www.chatbot.com;Cust. Support;Deflect FAQs and route issues with AI.;;
+Spellbook;https://www.spellbook.legal;Legal;Draft clauses and review contracts with AI assistance.;;
+DoNotPay;https://donotpay.com;Legal;AI helps analyze contracts and suggest revisions.;;
+Harvey;https://www.harvey.ai;Legal;Summarize legal docs and flag risks using AI.;;
+LawGeex;https://www.lawgeex.com;Legal;Clause libraries and drafting support with AI.;;
+Luminance;https://www.luminance.com;Legal;AI assistance for compliance checks and contracts.;;
+Legalsifter;https://www.legalsifter.com;Legal;Draft clauses and review contracts with AI assistance.;;
+Casetext (CoCounsel);https://casetext.com;Legal;AI helps analyze contracts and suggest revisions.;;
+Ailira;https://www.ailira.com;Legal;Summarize legal docs and flag risks using AI.;;
+Loio;https://loio.com;Legal;Clause libraries and drafting support with AI.;;
+Juro;https://juro.com;Legal;AI assistance for compliance checks and contracts.;;

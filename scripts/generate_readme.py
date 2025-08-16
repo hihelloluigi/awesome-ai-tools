@@ -11,7 +11,7 @@ README_MD = os.path.join(REPO_ROOT, "README.md")
 
 def load_rows(path):
     with open(path, newline='', encoding="utf-8") as f:
-        reader = csv.DictReader(f)
+        reader = csv.DictReader(f, delimiter=';')
         return list(reader)
 
 def make_tool_line(row):
