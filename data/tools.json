@@ -3,7 +3,7 @@
     "name": "Folk",
     "url": "https://folk.app",
     "category": "CRM Tools",
-    "description": "",
+    "description": "AI-assisted CRM for pipeline tracking and outreach.",
     "pricing": "",
     "oss": ""
   },
@@ -11,7 +11,7 @@
     "name": "Streak",
     "url": "https://www.streak.com",
     "category": "CRM Tools",
-    "description": "",
+    "description": "Manage deals, leads, and email outreach with AI insights.",
     "pricing": "",
     "oss": ""
   },
@@ -19,7 +19,7 @@
     "name": "HubSpot",
     "url": "https://hubspot.com",
     "category": "CRM Tools",
-    "description": "",
+    "description": "Sales CRM with AI scoring, enrichment, and follow-ups.",
     "pricing": "",
     "oss": ""
   },
@@ -27,7 +27,7 @@
     "name": "Close",
     "url": "https://www.close.com",
     "category": "CRM Tools",
-    "description": "",
+    "description": "Centralize contacts and automate sales workflows using AI.",
     "pricing": "",
     "oss": ""
   },
@@ -35,15 +35,15 @@
     "name": "Pipedrive",
     "url": "https://www.pipedrive.com",
     "category": "CRM Tools",
-    "description": "",
+    "description": "AI-driven pipeline, forecasting, and account intelligence.",
     "pricing": "",
     "oss": ""
   },
   {
     "name": "Zoho CRM",
-    "url": "https://www.zoho.com/crm/",
+    "url": "https://www.zoho.com/crm",
     "category": "CRM Tools",
-    "description": "",
+    "description": "AI-assisted CRM for pipeline tracking and outreach.",
     "pricing": "",
     "oss": ""
   },
@@ -51,7 +51,7 @@
     "name": "Salesforce",
     "url": "https://salesforce.com",
     "category": "CRM Tools",
-    "description": "",
+    "description": "Manage deals, leads, and email outreach with AI insights.",
     "pricing": "",
     "oss": ""
   },
@@ -59,7 +59,7 @@
     "name": "Freshsales",
     "url": "https://www.freshworks.com/crm",
     "category": "CRM Tools",
-    "description": "",
+    "description": "Sales CRM with AI scoring, enrichment, and follow-ups.",
     "pricing": "",
     "oss": ""
   },
@@ -67,7 +67,7 @@
     "name": "Keap",
     "url": "https://keap.com",
     "category": "CRM Tools",
-    "description": "",
+    "description": "Centralize contacts and automate sales workflows using AI.",
     "pricing": "",
     "oss": ""
   },
@@ -75,15 +75,15 @@
     "name": "Nimble",
     "url": "https://www.nimble.com",
     "category": "CRM Tools",
-    "description": "",
+    "description": "AI-driven pipeline, forecasting, and account intelligence.",
     "pricing": "",
     "oss": ""
   },
   {
     "name": "Mintlify",
-    "url": "https://mintlify.com/",
+    "url": "https://mintlify.com",
     "category": "CRM Tools",
-    "description": "",
+    "description": "AI-assisted CRM for pipeline tracking and outreach.",
     "pricing": "",
     "oss": ""
   },
@@ -91,39 +91,39 @@
     "name": "AWS",
     "url": "https://aws.amazon.com/startups",
     "category": "CRM Tools",
-    "description": "",
+    "description": "Manage deals, leads, and email outreach with AI insights.",
     "pricing": "",
     "oss": ""
   },
   {
     "name": "Neo4j",
-    "url": "https://neo4j.com/product/neo4j-graph-database/",
+    "url": "https://neo4j.com/product/neo4j-graph-database",
     "category": "CRM Tools",
-    "description": "",
+    "description": "Sales CRM with AI scoring, enrichment, and follow-ups.",
     "pricing": "",
     "oss": ""
   },
   {
     "name": "Pinecone",
-    "url": "https://www.pinecone.io/product/",
+    "url": "https://www.pinecone.io/product",
     "category": "CRM Tools",
-    "description": "",
+    "description": "Centralize contacts and automate sales workflows using AI.",
     "pricing": "",
     "oss": ""
   },
   {
     "name": "Supabase",
-    "url": "nan",
+    "url": "https://supabase.com",
     "category": "CRM Tools",
-    "description": "",
+    "description": "Open-source Firebase alternative with database, auth, and storage.",
     "pricing": "",
     "oss": ""
   },
   {
     "name": "Clerk",
-    "url": "nan",
+    "url": "https://clerk.com/",
     "category": "CRM Tools",
-    "description": "",
+    "description": "Authentication and user management platform with AI-enhanced workflows.",
     "pricing": "",
     "oss": ""
   },
@@ -131,7 +131,7 @@
     "name": "Ocoya",
     "url": "https://www.ocoya.com",
     "category": "Social Media Auto.",
-    "description": "",
+    "description": "Schedule posts and generate captions with AI suggestions.",
     "pricing": "",
     "oss": ""
   },
@@ -139,7 +139,7 @@
     "name": "Predis.ai",
     "url": "https://predis.ai",
     "category": "Social Media Auto.",
-    "description": "",
+    "description": "Automate social publishing and optimize performance with AI.",
     "pricing": "",
     "oss": ""
   },
@@ -147,7 +147,7 @@
     "name": "Lately.ai",
     "url": "https://www.lately.ai",
     "category": "Social Media Auto.",
-    "description": "",
+    "description": "AI captions, queues, and analytics for social channels.",
     "pricing": "",
     "oss": ""
   },
@@ -155,7 +155,7 @@
     "name": "SocialBee + AI",
     "url": "https://socialbee.com",
     "category": "Social Media Auto.",
-    "description": "",
+    "description": "Repurpose content and plan calendars using AI.",
     "pricing": "",
     "oss": ""
   },
@@ -163,7 +163,7 @@
     "name": "Flick",
     "url": "https://www.flick.social",
     "category": "Social Media Auto.",
-    "description": "",
+    "description": "AI helps plan, write, and schedule social media posts.",
     "pricing": "",
     "oss": ""
   },
@@ -171,7 +171,7 @@
     "name": "ContentStudio",
     "url": "https://contentstudio.io",
     "category": "Social Media Auto.",
-    "description": "",
+    "description": "Schedule posts and generate captions with AI suggestions.",
     "pricing": "",
     "oss": ""
   },
@@ -179,7 +179,7 @@
     "name": "Copy.ai",
     "url": "https://www.copy.ai",
     "category": "Social Media Auto.",
-    "description": "",
+    "description": "Automate social publishing and optimize performance with AI.",
     "pricing": "",
     "oss": ""
   },
@@ -187,7 +187,7 @@
     "name": "Hootsuite OwlyWriter AI",
     "url": "https://www.hootsuite.com",
     "category": "Social Media Auto.",
-    "description": "",
+    "description": "AI captions, queues, and analytics for social channels.",
     "pricing": "",
     "oss": ""
   },
@@ -195,7 +195,7 @@
     "name": "Postly",
     "url": "https://postly.ai",
     "category": "Social Media Auto.",
-    "description": "",
+    "description": "Repurpose content and plan calendars using AI.",
     "pricing": "",
     "oss": ""
   },
@@ -203,31 +203,23 @@
     "name": "Vista Social",
     "url": "https://vistasocial.com",
     "category": "Social Media Auto.",
-    "description": "",
-    "pricing": "",
-    "oss": ""
-  },
-  {
-    "name": "Zoho",
-    "url": "nan",
-    "category": "Social Media Auto.",
-    "description": "",
+    "description": "AI helps plan, write, and schedule social media posts.",
     "pricing": "",
     "oss": ""
   },
   {
     "name": "Buffer",
-    "url": "https://buffer.com/",
+    "url": "https://buffer.com",
     "category": "Social Media Auto.",
-    "description": "",
+    "description": "Schedule posts and generate captions with AI suggestions.",
     "pricing": "",
     "oss": ""
   },
   {
     "name": "Metricool",
-    "url": "nan",
+    "url": "https://metricool.com/",
     "category": "Social Media Auto.",
-    "description": "",
+    "description": "Analytics and scheduling platform for social media, ads, and content performance.",
     "pricing": "",
     "oss": ""
   },
@@ -235,7 +227,7 @@
     "name": "Clay",
     "url": "https://clay.com",
     "category": "Lead Gen Tools",
-    "description": "",
+    "description": "Find, enrich, and prioritize leads using AI.",
     "pricing": "",
     "oss": ""
   },
@@ -243,7 +235,7 @@
     "name": "Apollo.io",
     "url": "https://apollo.io",
     "category": "Lead Gen Tools",
-    "description": "",
+    "description": "Prospect discovery with AI enrichment and outreach.",
     "pricing": "",
     "oss": ""
   },
@@ -251,7 +243,7 @@
     "name": "Phantombuster",
     "url": "https://phantombuster.com",
     "category": "Lead Gen Tools",
-    "description": "",
+    "description": "AI scoring and enrichment for B2B lead generation.",
     "pricing": "",
     "oss": ""
   },
@@ -259,7 +251,7 @@
     "name": "LeadIQ",
     "url": "https://leadiq.com",
     "category": "Lead Gen Tools",
-    "description": "",
+    "description": "Automate prospecting and email outreach with AI.",
     "pricing": "",
     "oss": ""
   },
@@ -267,7 +259,7 @@
     "name": "Snov.io",
     "url": "https://snov.io",
     "category": "Lead Gen Tools",
-    "description": "",
+    "description": "AI-powered contact discovery and sequencing.",
     "pricing": "",
     "oss": ""
   },
@@ -275,7 +267,7 @@
     "name": "Lusha",
     "url": "https://www.lusha.com",
     "category": "Lead Gen Tools",
-    "description": "",
+    "description": "Find, enrich, and prioritize leads using AI.",
     "pricing": "",
     "oss": ""
   },
@@ -283,7 +275,7 @@
     "name": "Seamless.ai",
     "url": "https://www.seamless.ai",
     "category": "Lead Gen Tools",
-    "description": "",
+    "description": "Prospect discovery with AI enrichment and outreach.",
     "pricing": "",
     "oss": ""
   },
@@ -291,7 +283,7 @@
     "name": "Hunter.io",
     "url": "https://hunter.io",
     "category": "Lead Gen Tools",
-    "description": "",
+    "description": "AI scoring and enrichment for B2B lead generation.",
     "pricing": "",
     "oss": ""
   },
@@ -299,7 +291,7 @@
     "name": "Clearbit",
     "url": "https://clearbit.com",
     "category": "Lead Gen Tools",
-    "description": "",
+    "description": "Automate prospecting and email outreach with AI.",
     "pricing": "",
     "oss": ""
   },
@@ -307,7 +299,7 @@
     "name": "Reply.io",
     "url": "https://reply.io",
     "category": "Lead Gen Tools",
-    "description": "",
+    "description": "AI-powered contact discovery and sequencing.",
     "pricing": "",
     "oss": ""
   },
@@ -315,7 +307,7 @@
     "name": "Pika",
     "url": "https://pika.art",
     "category": "Video Gen Tools",
-    "description": "",
+    "description": "Create videos with AI scenes, captions, and voiceovers.",
     "pricing": "",
     "oss": ""
   },
@@ -323,7 +315,7 @@
     "name": "Runway",
     "url": "https://runwayml.com",
     "category": "Video Gen Tools",
-    "description": "",
+    "description": "Text-to-video and AI video editing in one tool.",
     "pricing": "",
     "oss": ""
   },
@@ -331,7 +323,7 @@
     "name": "Synthesia",
     "url": "https://www.synthesia.io",
     "category": "Video Gen Tools",
-    "description": "",
+    "description": "Generate and edit videos using AI-driven effects and cuts.",
     "pricing": "",
     "oss": ""
   },
@@ -339,7 +331,7 @@
     "name": "Colossyan",
     "url": "https://www.colossyan.com",
     "category": "Video Gen Tools",
-    "description": "",
+    "description": "AI video creation with templates, subtitles, and dubbing.",
     "pricing": "",
     "oss": ""
   },
@@ -347,7 +339,7 @@
     "name": "Veed.io",
     "url": "https://www.veed.io",
     "category": "Video Gen Tools",
-    "description": "",
+    "description": "Storyboard, generate, and refine videos with AI.",
     "pricing": "",
     "oss": ""
   },
@@ -355,7 +347,7 @@
     "name": "Descript",
     "url": "https://www.descript.com",
     "category": "Video Gen Tools",
-    "description": "",
+    "description": "Create videos with AI scenes, captions, and voiceovers.",
     "pricing": "",
     "oss": ""
   },
@@ -363,7 +355,7 @@
     "name": "Hour One",
     "url": "https://www.hourone.ai",
     "category": "Video Gen Tools",
-    "description": "",
+    "description": "Text-to-video and AI video editing in one tool.",
     "pricing": "",
     "oss": ""
   },
@@ -371,7 +363,7 @@
     "name": "Lumen5",
     "url": "https://www.lumen5.com",
     "category": "Video Gen Tools",
-    "description": "",
+    "description": "Generate and edit videos using AI-driven effects and cuts.",
     "pricing": "",
     "oss": ""
   },
@@ -379,7 +371,7 @@
     "name": "HeyGen",
     "url": "https://www.heygen.com",
     "category": "Video Gen Tools",
-    "description": "",
+    "description": "AI video creation with templates, subtitles, and dubbing.",
     "pricing": "",
     "oss": ""
   },
@@ -387,7 +379,7 @@
     "name": "InVideo",
     "url": "https://invideo.io",
     "category": "Video Gen Tools",
-    "description": "",
+    "description": "Storyboard, generate, and refine videos with AI.",
     "pricing": "",
     "oss": ""
   },
@@ -395,7 +387,7 @@
     "name": "Fireflies.ai",
     "url": "https://fireflies.ai",
     "category": "Note Taking Tools",
-    "description": "",
+    "description": "Transcribe meetings and summarize action items with AI.",
     "pricing": "",
     "oss": ""
   },
@@ -403,7 +395,7 @@
     "name": "Otter.ai",
     "url": "https://otter.ai",
     "category": "Note Taking Tools",
-    "description": "",
+    "description": "Real-time transcripts and automated summaries for calls.",
     "pricing": "",
     "oss": ""
   },
@@ -411,7 +403,7 @@
     "name": "tl;dv",
     "url": "https://tldv.io",
     "category": "Note Taking Tools",
-    "description": "",
+    "description": "AI meeting notes with highlights, tasks, and follow-ups.",
     "pricing": "",
     "oss": ""
   },
@@ -419,7 +411,7 @@
     "name": "Scribbl",
     "url": "https://www.scribbl.ai",
     "category": "Note Taking Tools",
-    "description": "",
+    "description": "Record, transcribe, and summarize conversations using AI.",
     "pricing": "",
     "oss": ""
   },
@@ -427,7 +419,7 @@
     "name": "Notta",
     "url": "https://www.notta.ai",
     "category": "Note Taking Tools",
-    "description": "",
+    "description": "Automated note-taking with speaker labels and key points.",
     "pricing": "",
     "oss": ""
   },
@@ -435,7 +427,7 @@
     "name": "Avoma",
     "url": "https://www.avoma.com",
     "category": "Note Taking Tools",
-    "description": "",
+    "description": "Transcribe meetings and summarize action items with AI.",
     "pricing": "",
     "oss": ""
   },
@@ -443,7 +435,7 @@
     "name": "Supernormal",
     "url": "https://www.supernormal.com",
     "category": "Note Taking Tools",
-    "description": "",
+    "description": "Real-time transcripts and automated summaries for calls.",
     "pricing": "",
     "oss": ""
   },
@@ -451,7 +443,7 @@
     "name": "MeetGeek",
     "url": "https://meetgeek.ai",
     "category": "Note Taking Tools",
-    "description": "",
+    "description": "AI meeting notes with highlights, tasks, and follow-ups.",
     "pricing": "",
     "oss": ""
   },
@@ -459,7 +451,7 @@
     "name": "Fathom",
     "url": "https://fathom.video",
     "category": "Note Taking Tools",
-    "description": "",
+    "description": "Record, transcribe, and summarize conversations using AI.",
     "pricing": "",
     "oss": ""
   },
@@ -467,7 +459,7 @@
     "name": "Airgram",
     "url": "https://www.airgram.io",
     "category": "Note Taking Tools",
-    "description": "",
+    "description": "Automated note-taking with speaker labels and key points.",
     "pricing": "",
     "oss": ""
   },
@@ -475,7 +467,7 @@
     "name": "Cursor",
     "url": "https://www.cursor.so",
     "category": "IDE Tools",
-    "description": "",
+    "description": "AI code completions, refactors, and inline explanations.",
     "pricing": "",
     "oss": ""
   },
@@ -483,7 +475,7 @@
     "name": "Replit Ghostwriter",
     "url": "https://replit.com",
     "category": "IDE Tools",
-    "description": "",
+    "description": "Suggests functions, tests, and fixes as you code.",
     "pricing": "",
     "oss": ""
   },
@@ -491,7 +483,7 @@
     "name": "Tabnine",
     "url": "https://www.tabnine.com",
     "category": "IDE Tools",
-    "description": "",
+    "description": "AI pair-programmer for refactors and documentation.",
     "pricing": "",
     "oss": ""
   },
@@ -499,7 +491,7 @@
     "name": "CodiumAI",
     "url": "https://www.codium.ai",
     "category": "IDE Tools",
-    "description": "",
+    "description": "Autocomplete, debug help, and test generation with AI.",
     "pricing": "",
     "oss": ""
   },
@@ -507,7 +499,7 @@
     "name": "Continue",
     "url": "https://continue.dev",
     "category": "IDE Tools",
-    "description": "",
+    "description": "Review diffs and improve code quality using AI.",
     "pricing": "",
     "oss": ""
   },
@@ -515,7 +507,7 @@
     "name": "Sourcegraph Cody",
     "url": "https://sourcegraph.com/cody",
     "category": "IDE Tools",
-    "description": "",
+    "description": "AI code completions, refactors, and inline explanations.",
     "pricing": "",
     "oss": ""
   },
@@ -523,7 +515,7 @@
     "name": "MutableAI",
     "url": "https://mutable.ai",
     "category": "IDE Tools",
-    "description": "",
+    "description": "Suggests functions, tests, and fixes as you code.",
     "pricing": "",
     "oss": ""
   },
@@ -531,15 +523,31 @@
     "name": "Windsurf",
     "url": "https://windsurf.ai",
     "category": "IDE Tools",
-    "description": "",
+    "description": "AI pair-programmer for refactors and documentation.",
     "pricing": "",
     "oss": ""
   },
   {
-    "name": "Kite (legacy)",
-    "url": "https://www.kite.com",
+    "name": "Bolt",
+    "url": "https://bolt.new/",
     "category": "IDE Tools",
-    "description": "",
+    "description": "It lets you generate apps instantly using AI, combining code scaffolding and hosting.",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Lovable",
+    "url": "https://lovable.dev/",
+    "category": "IDE Tools",
+    "description": "Build full-stack apps visually with AI, no-code + generated code.",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Copycoder",
+    "url": "https://copycoder.ai/",
+    "category": "IDE Tools",
+    "description": "AI-assisted code commenting, refactoring, and documentation.",
     "pricing": "",
     "oss": ""
   },
@@ -547,7 +555,7 @@
     "name": "ElevenLabs",
     "url": "https://www.elevenlabs.io",
     "category": "Voice",
-    "description": "",
+    "description": "Clone voices and synthesize speech with AI.",
     "pricing": "",
     "oss": ""
   },
@@ -555,7 +563,7 @@
     "name": "Play.ht",
     "url": "https://play.ht",
     "category": "Voice",
-    "description": "",
+    "description": "Generate natural-sounding speech and voiceovers using AI.",
     "pricing": "",
     "oss": ""
   },
@@ -563,7 +571,7 @@
     "name": "Murf.ai",
     "url": "https://murf.ai",
     "category": "Voice",
-    "description": "",
+    "description": "AI voice cloning for apps, games, and media.",
     "pricing": "",
     "oss": ""
   },
@@ -571,7 +579,7 @@
     "name": "WellSaid Labs",
     "url": "https://www.wellsaidlabs.com",
     "category": "Voice",
-    "description": "",
+    "description": "Text-to-speech with controllable emotion and style.",
     "pricing": "",
     "oss": ""
   },
@@ -579,7 +587,7 @@
     "name": "LOVO",
     "url": "https://www.lovo.ai",
     "category": "Voice",
-    "description": "",
+    "description": "Create voices and dubbing tracks powered by AI.",
     "pricing": "",
     "oss": ""
   },
@@ -587,7 +595,7 @@
     "name": "Speechify",
     "url": "https://speechify.com",
     "category": "Voice",
-    "description": "",
+    "description": "Clone voices and synthesize speech with AI.",
     "pricing": "",
     "oss": ""
   },
@@ -595,7 +603,7 @@
     "name": "Replica Studios",
     "url": "https://replicastudios.com",
     "category": "Voice",
-    "description": "",
+    "description": "Generate natural-sounding speech and voiceovers using AI.",
     "pricing": "",
     "oss": ""
   },
@@ -603,7 +611,7 @@
     "name": "Resemble.ai",
     "url": "https://www.resemble.ai",
     "category": "Voice",
-    "description": "",
+    "description": "AI voice cloning for apps, games, and media.",
     "pricing": "",
     "oss": ""
   },
@@ -611,7 +619,7 @@
     "name": "ReadSpeaker",
     "url": "https://www.readspeaker.com",
     "category": "Voice",
-    "description": "",
+    "description": "Text-to-speech with controllable emotion and style.",
     "pricing": "",
     "oss": ""
   },
@@ -619,7 +627,7 @@
     "name": "Narakeet",
     "url": "https://www.narakeet.com",
     "category": "Voice",
-    "description": "",
+    "description": "Create voices and dubbing tracks powered by AI.",
     "pricing": "",
     "oss": ""
   },
@@ -627,7 +635,7 @@
     "name": "Langchain",
     "url": "https://www.langchain.com",
     "category": "Agents",
-    "description": "",
+    "description": "Configurable AI agents to automate complex workflows.",
     "pricing": "",
     "oss": ""
   },
@@ -635,7 +643,7 @@
     "name": "AutoGen",
     "url": "https://microsoft.github.io/autogen",
     "category": "Agents",
-    "description": "",
+    "description": "Configurable AI agents to automate complex workflows.",
     "pricing": "",
     "oss": ""
   },
@@ -643,7 +651,7 @@
     "name": "CrewAI",
     "url": "https://www.crewai.com",
     "category": "Agents",
-    "description": "",
+    "description": "Autonomous agents for research, tasks, and integrations.",
     "pricing": "",
     "oss": ""
   },
@@ -651,7 +659,7 @@
     "name": "MetaGPT",
     "url": "https://github.com/geekan/MetaGPT",
     "category": "Agents",
-    "description": "",
+    "description": "Multi-step AI agents with tools and memory.",
     "pricing": "",
     "oss": ""
   },
@@ -659,7 +667,7 @@
     "name": "Superagent",
     "url": "https://superagent.sh",
     "category": "Agents",
-    "description": "",
+    "description": "Orchestrate tool-using AI agents for tasks.",
     "pricing": "",
     "oss": ""
   },
@@ -667,7 +675,7 @@
     "name": "GPT Engineer",
     "url": "https://github.com/AntonOsika/gpt-engineer",
     "category": "Agents",
-    "description": "",
+    "description": "Plan-and-act AI agents with feedback loops.",
     "pricing": "",
     "oss": ""
   },
@@ -675,7 +683,7 @@
     "name": "OpenAgents",
     "url": "https://github.com/openagent/openagent",
     "category": "Agents",
-    "description": "",
+    "description": "Configurable AI agents to automate complex workflows.",
     "pricing": "",
     "oss": ""
   },
@@ -683,7 +691,7 @@
     "name": "Camel",
     "url": "https://github.com/camel-ai/camel",
     "category": "Agents",
-    "description": "",
+    "description": "Autonomous agents for research, tasks, and integrations.",
     "pricing": "",
     "oss": ""
   },
@@ -691,7 +699,7 @@
     "name": "Agnai",
     "url": "https://github.com/agnai/agnai",
     "category": "Agents",
-    "description": "",
+    "description": "Multi-step AI agents with tools and memory.",
     "pricing": "",
     "oss": ""
   },
@@ -699,7 +707,7 @@
     "name": "AI Town",
     "url": "https://github.com/a16z-infra/ai-town",
     "category": "Agents",
-    "description": "",
+    "description": "Orchestrate tool-using AI agents for tasks.",
     "pricing": "",
     "oss": ""
   },
@@ -707,7 +715,7 @@
     "name": "Canva Magic Design",
     "url": "https://www.canva.com/magic-design",
     "category": "Design",
-    "description": "",
+    "description": "Create and refine visuals using AI prompts and styles.",
     "pricing": "",
     "oss": ""
   },
@@ -715,7 +723,7 @@
     "name": "Uizard",
     "url": "https://uizard.io",
     "category": "Design",
-    "description": "",
+    "description": "Generate images, mockups, and assets with AI.",
     "pricing": "",
     "oss": ""
   },
@@ -723,7 +731,7 @@
     "name": "Looka",
     "url": "https://looka.com",
     "category": "Design",
-    "description": "",
+    "description": "AI-assisted design for graphics, layouts, and branding.",
     "pricing": "",
     "oss": ""
   },
@@ -731,7 +739,7 @@
     "name": "Khroma",
     "url": "https://www.khroma.co",
     "category": "Design",
-    "description": "",
+    "description": "Prompt-based image creation and style variation with AI.",
     "pricing": "",
     "oss": ""
   },
@@ -739,7 +747,7 @@
     "name": "AutoDraw",
     "url": "https://www.autodraw.com",
     "category": "Design",
-    "description": "",
+    "description": "Design assets and illustrations generated by AI.",
     "pricing": "",
     "oss": ""
   },
@@ -747,7 +755,7 @@
     "name": "Designs.ai",
     "url": "https://designs.ai",
     "category": "Design",
-    "description": "",
+    "description": "Create and refine visuals using AI prompts and styles.",
     "pricing": "",
     "oss": ""
   },
@@ -755,7 +763,7 @@
     "name": "LetSENs Enhance",
     "url": "https://letsenhance.io",
     "category": "Design",
-    "description": "",
+    "description": "Generate images, mockups, and assets with AI.",
     "pricing": "",
     "oss": ""
   },
@@ -763,7 +771,7 @@
     "name": "Remove.bg",
     "url": "https://remove.bg",
     "category": "Design",
-    "description": "",
+    "description": "AI-assisted design for graphics, layouts, and branding.",
     "pricing": "",
     "oss": ""
   },
@@ -771,7 +779,7 @@
     "name": "Figma AI",
     "url": "https://figma.com",
     "category": "Design",
-    "description": "",
+    "description": "Prompt-based image creation and style variation with AI.",
     "pricing": "",
     "oss": ""
   },
@@ -779,7 +787,23 @@
     "name": "Illustroke",
     "url": "https://illustroke.com",
     "category": "Design",
-    "description": "",
+    "description": "Design assets and illustrations generated by AI.",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "Lovart",
+    "url": "https://www.lovart.ai/",
+    "category": "Design",
+    "description": "AI art creation tool, generates illustrations and concept art.",
+    "pricing": "",
+    "oss": ""
+  },
+  {
+    "name": "MidJourney",
+    "url": "https://www.midjourney.com/home",
+    "category": "Design",
+    "description": "AI platform that generates high-quality images from natural language prompts.",
     "pricing": "",
     "oss": ""
   },
@@ -787,7 +811,7 @@
     "name": "Harness",
     "url": "https://harness.io",
     "category": "DevOps",
-    "description": "",
+    "description": "AI assistance for CI/CD, monitoring, and incident response.",
     "pricing": "",
     "oss": ""
   },
@@ -795,7 +819,7 @@
     "name": "GitHub Copilot",
     "url": "https://github.com/features/copilot",
     "category": "DevOps",
-    "description": "",
+    "description": "Detect issues and suggest remediations using AI.",
     "pricing": "",
     "oss": ""
   },
@@ -803,7 +827,7 @@
     "name": "Ansible Lightspeed",
     "url": "https://www.ansible.com",
     "category": "DevOps",
-    "description": "",
+    "description": "AI copilots for infra changes, rollbacks, and runbooks.",
     "pricing": "",
     "oss": ""
   },
@@ -811,7 +835,7 @@
     "name": "Jenkins + AI plugins",
     "url": "https://www.jenkins.io",
     "category": "DevOps",
-    "description": "",
+    "description": "Automate checks and triage alerts with AI.",
     "pricing": "",
     "oss": ""
   },
@@ -819,7 +843,7 @@
     "name": "FireHydrant",
     "url": "https://firehydrant.com",
     "category": "DevOps",
-    "description": "",
+    "description": "Explain failures and propose fixes using AI.",
     "pricing": "",
     "oss": ""
   },
@@ -827,7 +851,7 @@
     "name": "Sentry + AI",
     "url": "https://sentry.io",
     "category": "DevOps",
-    "description": "",
+    "description": "AI assistance for CI/CD, monitoring, and incident response.",
     "pricing": "",
     "oss": ""
   },
@@ -835,7 +859,7 @@
     "name": "DataDog + AI",
     "url": "https://www.datadoghq.com",
     "category": "DevOps",
-    "description": "",
+    "description": "AI assistance for CI/CD, monitoring, and incident response.",
     "pricing": "",
     "oss": ""
   },
@@ -843,7 +867,7 @@
     "name": "Botkube",
     "url": "https://www.botkube.io",
     "category": "DevOps",
-    "description": "",
+    "description": "Detect issues and suggest remediations using AI.",
     "pricing": "",
     "oss": ""
   },
@@ -851,7 +875,7 @@
     "name": "Relay by Puppet",
     "url": "https://relay.sh",
     "category": "DevOps",
-    "description": "",
+    "description": "AI copilots for infra changes, rollbacks, and runbooks.",
     "pricing": "",
     "oss": ""
   },
@@ -859,7 +883,7 @@
     "name": "Rookout",
     "url": "https://www.rookout.com",
     "category": "DevOps",
-    "description": "",
+    "description": "AI copilots for infra changes, rollbacks, and runbooks.",
     "pricing": "",
     "oss": ""
   },
@@ -867,7 +891,7 @@
     "name": "ChatGPT",
     "url": "https://chat.openai.com",
     "category": "Personal Assistants",
-    "description": "",
+    "description": "General AI assistant for tasks, research, and reminders.",
     "pricing": "",
     "oss": ""
   },
@@ -875,7 +899,7 @@
     "name": "Claude",
     "url": "https://www.anthropic.com/index/claude",
     "category": "Personal Assistants",
-    "description": "",
+    "description": "Conversational help for drafting, planning, and answers.",
     "pricing": "",
     "oss": ""
   },
@@ -883,7 +907,7 @@
     "name": "Perplexity",
     "url": "https://www.perplexity.ai",
     "category": "Personal Assistants",
-    "description": "",
+    "description": "Ask questions, summarize, and automate tasks with AI.",
     "pricing": "",
     "oss": ""
   },
@@ -891,7 +915,7 @@
     "name": "Pi (Inflection AI)",
     "url": "https://heypi.com",
     "category": "Personal Assistants",
-    "description": "",
+    "description": "Personal AI aide for notes, searches, and organization.",
     "pricing": "",
     "oss": ""
   },
@@ -899,7 +923,7 @@
     "name": "Rewind",
     "url": "https://www.rewind.ai",
     "category": "Personal Assistants",
-    "description": "",
+    "description": "Chat-based assistant to speed up daily workflows.",
     "pricing": "",
     "oss": ""
   },
@@ -907,7 +931,7 @@
     "name": "Quora Poe",
     "url": "https://poe.com",
     "category": "Personal Assistants",
-    "description": "",
+    "description": "General AI assistant for tasks, research, and reminders.",
     "pricing": "",
     "oss": ""
   },
@@ -915,7 +939,7 @@
     "name": "Lindy",
     "url": "https://www.lindy.ai",
     "category": "Personal Assistants",
-    "description": "",
+    "description": "Conversational help for drafting, planning, and answers.",
     "pricing": "",
     "oss": ""
   },
@@ -923,7 +947,7 @@
     "name": "xAI Grok",
     "url": "https://x.ai",
     "category": "Personal Assistants",
-    "description": "",
+    "description": "Ask questions, summarize, and automate tasks with AI.",
     "pricing": "",
     "oss": ""
   },
@@ -931,7 +955,7 @@
     "name": "HyperWrite",
     "url": "https://www.hyperwriteai.com",
     "category": "Personal Assistants",
-    "description": "",
+    "description": "Personal AI aide for notes, searches, and organization.",
     "pricing": "",
     "oss": ""
   },
@@ -939,7 +963,7 @@
     "name": "Humata",
     "url": "https://www.humata.ai",
     "category": "Personal Assistants",
-    "description": "",
+    "description": "Chat-based assistant to speed up daily workflows.",
     "pricing": "",
     "oss": ""
   },
@@ -947,7 +971,7 @@
     "name": "Tome",
     "url": "https://tome.app",
     "category": "Pitch & Slides",
-    "description": "",
+    "description": "Create slides and pitches with AI-written content and layouts.",
     "pricing": "",
     "oss": ""
   },
@@ -955,7 +979,7 @@
     "name": "Beautiful.ai",
     "url": "https://www.beautiful.ai",
     "category": "Pitch & Slides",
-    "description": "",
+    "description": "AI suggests outlines, visuals, and speaker notes for decks.",
     "pricing": "",
     "oss": ""
   },
@@ -963,7 +987,7 @@
     "name": "Gamma",
     "url": "https://gamma.app",
     "category": "Pitch & Slides",
-    "description": "",
+    "description": "Generate presentations quickly with templates and AI copy.",
     "pricing": "",
     "oss": ""
   },
@@ -971,7 +995,7 @@
     "name": "SlidesAI",
     "url": "https://www.slidesai.io",
     "category": "Pitch & Slides",
-    "description": "",
+    "description": "Turn ideas into slide decks using AI.",
     "pricing": "",
     "oss": ""
   },
@@ -979,7 +1003,7 @@
     "name": "Decktopus",
     "url": "https://www.decktopus.com",
     "category": "Pitch & Slides",
-    "description": "",
+    "description": "Draft, design, and refine presentations with AI.",
     "pricing": "",
     "oss": ""
   },
@@ -987,7 +1011,7 @@
     "name": "Storydoc",
     "url": "https://www.storydoc.com",
     "category": "Pitch & Slides",
-    "description": "",
+    "description": "Create slides and pitches with AI-written content and layouts.",
     "pricing": "",
     "oss": ""
   },
@@ -995,7 +1019,7 @@
     "name": "Sendsteps",
     "url": "https://www.sendsteps.com",
     "category": "Pitch & Slides",
-    "description": "",
+    "description": "AI suggests outlines, visuals, and speaker notes for decks.",
     "pricing": "",
     "oss": ""
   },
@@ -1003,7 +1027,7 @@
     "name": "Simplified",
     "url": "https://simplified.com",
     "category": "Pitch & Slides",
-    "description": "",
+    "description": "Generate presentations quickly with templates and AI copy.",
     "pricing": "",
     "oss": ""
   },
@@ -1011,7 +1035,7 @@
     "name": "Pitch",
     "url": "https://pitch.com",
     "category": "Pitch & Slides",
-    "description": "",
+    "description": "Turn ideas into slide decks using AI.",
     "pricing": "",
     "oss": ""
   },
@@ -1019,7 +1043,7 @@
     "name": "Visme",
     "url": "https://www.visme.co",
     "category": "Pitch & Slides",
-    "description": "",
+    "description": "Draft, design, and refine presentations with AI.",
     "pricing": "",
     "oss": ""
   },
@@ -1027,7 +1051,7 @@
     "name": "Notion AI",
     "url": "https://www.notion.so/product/ai",
     "category": "Productivity",
-    "description": "",
+    "description": "Draft, summarize, and organize work faster using AI.",
     "pricing": "",
     "oss": ""
   },
@@ -1035,7 +1059,7 @@
     "name": "Motion",
     "url": "https://www.usemotion.com",
     "category": "Productivity",
-    "description": "",
+    "description": "Draft, summarize, and organize work faster using AI.",
     "pricing": "",
     "oss": ""
   },
@@ -1043,7 +1067,7 @@
     "name": "ClickUp AI",
     "url": "https://clickup.com",
     "category": "Productivity",
-    "description": "",
+    "description": "AI help for documents, tasks, and communications.",
     "pricing": "",
     "oss": ""
   },
@@ -1051,7 +1075,7 @@
     "name": "Superhuman",
     "url": "https://superhuman.com",
     "category": "Productivity",
-    "description": "",
+    "description": "Automate busywork and writing with AI assistance.",
     "pricing": "",
     "oss": ""
   },
@@ -1059,7 +1083,7 @@
     "name": "Magical",
     "url": "https://www.getmagical.com",
     "category": "Productivity",
-    "description": "",
+    "description": "Summaries, outlines, and task automation powered by AI.",
     "pricing": "",
     "oss": ""
   },
@@ -1067,7 +1091,7 @@
     "name": "Clockwise",
     "url": "https://www.getclockwise.com",
     "category": "Productivity",
-    "description": "",
+    "description": "Accelerate personal workflows with AI tools.",
     "pricing": "",
     "oss": ""
   },
@@ -1075,7 +1099,7 @@
     "name": "Akiflow",
     "url": "https://akiflow.com",
     "category": "Productivity",
-    "description": "",
+    "description": "Draft, summarize, and organize work faster using AI.",
     "pricing": "",
     "oss": ""
   },
@@ -1083,7 +1107,7 @@
     "name": "Mem",
     "url": "https://mem.ai",
     "category": "Productivity",
-    "description": "",
+    "description": "AI help for documents, tasks, and communications.",
     "pricing": "",
     "oss": ""
   },
@@ -1091,7 +1115,7 @@
     "name": "x.ai (legacy)",
     "url": "https://x.ai",
     "category": "Productivity",
-    "description": "",
+    "description": "Automate busywork and writing with AI assistance.",
     "pricing": "",
     "oss": ""
   },
@@ -1099,7 +1123,7 @@
     "name": "Todoist + AI",
     "url": "https://todoist.com",
     "category": "Productivity",
-    "description": "",
+    "description": "Summaries, outlines, and task automation powered by AI.",
     "pricing": "",
     "oss": ""
   },
@@ -1107,7 +1131,7 @@
     "name": "Zeni",
     "url": "https://www.zeni.ai",
     "category": "Finance",
-    "description": "",
+    "description": "Forecasts, anomaly detection, and insights powered by AI.",
     "pricing": "",
     "oss": ""
   },
@@ -1115,7 +1139,7 @@
     "name": "Pilot",
     "url": "https://pilot.com",
     "category": "Finance",
-    "description": "",
+    "description": "AI helps reconcile, predict, and explain financials.",
     "pricing": "",
     "oss": ""
   },
@@ -1123,7 +1147,7 @@
     "name": "Bench",
     "url": "https://bench.co",
     "category": "Finance",
-    "description": "",
+    "description": "Detect fraud and produce forecasts using AI.",
     "pricing": "",
     "oss": ""
   },
@@ -1131,7 +1155,7 @@
     "name": "Taktile",
     "url": "https://www.taktile.com",
     "category": "Finance",
-    "description": "",
+    "description": "Generate reports and projections with AI assistance.",
     "pricing": "",
     "oss": ""
   },
@@ -1139,7 +1163,7 @@
     "name": "Indy",
     "url": "https://weareindy.com",
     "category": "Finance",
-    "description": "",
+    "description": "Financial analytics and planning accelerated by AI.",
     "pricing": "",
     "oss": ""
   },
@@ -1147,7 +1171,7 @@
     "name": "Fyle",
     "url": "https://www.fylehq.com",
     "category": "Finance",
-    "description": "",
+    "description": "Forecasts, anomaly detection, and insights powered by AI.",
     "pricing": "",
     "oss": ""
   },
@@ -1155,7 +1179,7 @@
     "name": "Expensify",
     "url": "https://www.expensify.com",
     "category": "Finance",
-    "description": "",
+    "description": "AI helps reconcile, predict, and explain financials.",
     "pricing": "",
     "oss": ""
   },
@@ -1163,7 +1187,7 @@
     "name": "QuickBooks + AI",
     "url": "https://quickbooks.intuit.com",
     "category": "Finance",
-    "description": "",
+    "description": "Detect fraud and produce forecasts using AI.",
     "pricing": "",
     "oss": ""
   },
@@ -1171,7 +1195,7 @@
     "name": "Ramp",
     "url": "https://ramp.com",
     "category": "Finance",
-    "description": "",
+    "description": "Generate reports and projections with AI assistance.",
     "pricing": "",
     "oss": ""
   },
@@ -1179,7 +1203,7 @@
     "name": "Fincent",
     "url": "https://fincent.com",
     "category": "Finance",
-    "description": "",
+    "description": "Financial analytics and planning accelerated by AI.",
     "pricing": "",
     "oss": ""
   },
@@ -1187,7 +1211,7 @@
     "name": "Intercom Fin",
     "url": "https://www.intercom.com",
     "category": "Cust. Support",
-    "description": "",
+    "description": "AI chat and tickets for faster customer support.",
     "pricing": "",
     "oss": ""
   },
@@ -1195,7 +1219,7 @@
     "name": "Tidio",
     "url": "https://www.tidio.com",
     "category": "Cust. Support",
-    "description": "",
+    "description": "Automate replies and triage with AI assistants.",
     "pricing": "",
     "oss": ""
   },
@@ -1203,7 +1227,7 @@
     "name": "Freshchat",
     "url": "https://freshchat.com",
     "category": "Cust. Support",
-    "description": "",
+    "description": "Suggest answers and draft responses using AI.",
     "pricing": "",
     "oss": ""
   },
@@ -1211,7 +1235,7 @@
     "name": "Crisp",
     "url": "https://crisp.chat",
     "category": "Cust. Support",
-    "description": "",
+    "description": "Deflect FAQs and route issues with AI.",
     "pricing": "",
     "oss": ""
   },
@@ -1219,7 +1243,7 @@
     "name": "Drift",
     "url": "https://www.drift.com",
     "category": "Cust. Support",
-    "description": "",
+    "description": "24/7 support automation and insights powered by AI.",
     "pricing": "",
     "oss": ""
   },
@@ -1227,7 +1251,7 @@
     "name": "Zowie",
     "url": "https://getzowie.com",
     "category": "Cust. Support",
-    "description": "",
+    "description": "AI chat and tickets for faster customer support.",
     "pricing": "",
     "oss": ""
   },
@@ -1235,7 +1259,7 @@
     "name": "Ada",
     "url": "https://www.ada.cx",
     "category": "Cust. Support",
-    "description": "",
+    "description": "AI chat and tickets for faster customer support.",
     "pricing": "",
     "oss": ""
   },
@@ -1243,7 +1267,7 @@
     "name": "Help Scout",
     "url": "https://www.helpscout.com",
     "category": "Cust. Support",
-    "description": "",
+    "description": "Automate replies and triage with AI assistants.",
     "pricing": "",
     "oss": ""
   },
@@ -1251,7 +1275,7 @@
     "name": "Forethought",
     "url": "https://forethought.ai",
     "category": "Cust. Support",
-    "description": "",
+    "description": "Suggest answers and draft responses using AI.",
     "pricing": "",
     "oss": ""
   },
@@ -1259,7 +1283,7 @@
     "name": "ChatBot.com",
     "url": "https://www.chatbot.com",
     "category": "Cust. Support",
-    "description": "",
+    "description": "Deflect FAQs and route issues with AI.",
     "pricing": "",
     "oss": ""
   },
@@ -1267,7 +1291,7 @@
     "name": "Spellbook",
     "url": "https://www.spellbook.legal",
     "category": "Legal",
-    "description": "",
+    "description": "Draft clauses and review contracts with AI assistance.",
     "pricing": "",
     "oss": ""
   },
@@ -1275,7 +1299,7 @@
     "name": "DoNotPay",
     "url": "https://donotpay.com",
     "category": "Legal",
-    "description": "",
+    "description": "AI helps analyze contracts and suggest revisions.",
     "pricing": "",
     "oss": ""
   },
@@ -1283,7 +1307,7 @@
     "name": "Harvey",
     "url": "https://www.harvey.ai",
     "category": "Legal",
-    "description": "",
+    "description": "Summarize legal docs and flag risks using AI.",
     "pricing": "",
     "oss": ""
   },
@@ -1291,7 +1315,7 @@
     "name": "LawGeex",
     "url": "https://www.lawgeex.com",
     "category": "Legal",
-    "description": "",
+    "description": "Clause libraries and drafting support with AI.",
     "pricing": "",
     "oss": ""
   },
@@ -1299,7 +1323,7 @@
     "name": "Luminance",
     "url": "https://www.luminance.com",
     "category": "Legal",
-    "description": "",
+    "description": "AI assistance for compliance checks and contracts.",
     "pricing": "",
     "oss": ""
   },
@@ -1307,7 +1331,7 @@
     "name": "Legalsifter",
     "url": "https://www.legalsifter.com",
     "category": "Legal",
-    "description": "",
+    "description": "Draft clauses and review contracts with AI assistance.",
     "pricing": "",
     "oss": ""
   },
@@ -1315,7 +1339,7 @@
     "name": "Casetext (CoCounsel)",
     "url": "https://casetext.com",
     "category": "Legal",
-    "description": "",
+    "description": "AI helps analyze contracts and suggest revisions.",
     "pricing": "",
     "oss": ""
   },
@@ -1323,7 +1347,7 @@
     "name": "Ailira",
     "url": "https://www.ailira.com",
     "category": "Legal",
-    "description": "",
+    "description": "Summarize legal docs and flag risks using AI.",
     "pricing": "",
     "oss": ""
   },
@@ -1331,7 +1355,7 @@
     "name": "Loio",
     "url": "https://loio.com",
     "category": "Legal",
-    "description": "",
+    "description": "Clause libraries and drafting support with AI.",
     "pricing": "",
     "oss": ""
   },
@@ -1339,7 +1363,7 @@
     "name": "Juro",
     "url": "https://juro.com",
     "category": "Legal",
-    "description": "",
+    "description": "AI assistance for compliance checks and contracts.",
     "pricing": "",
     "oss": ""
   }

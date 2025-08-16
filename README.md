@@ -29,219 +29,222 @@ A curated list of *actually* useful AI tools — research, code, design, data, c
 
 ### Agents
 
-- [Agnai](https://github.com/agnai/agnai)
-- [AI Town](https://github.com/a16z-infra/ai-town)
-- [AutoGen](https://microsoft.github.io/autogen)
-- [Camel](https://github.com/camel-ai/camel)
-- [CrewAI](https://www.crewai.com)
-- [GPT Engineer](https://github.com/AntonOsika/gpt-engineer)
-- [Langchain](https://www.langchain.com)
-- [MetaGPT](https://github.com/geekan/MetaGPT)
-- [OpenAgents](https://github.com/openagent/openagent)
-- [Superagent](https://superagent.sh)
+- [Agnai](https://github.com/agnai/agnai) — Multi-step AI agents with tools and memory.
+- [AI Town](https://github.com/a16z-infra/ai-town) — Orchestrate tool-using AI agents for tasks.
+- [AutoGen](https://microsoft.github.io/autogen) — Configurable AI agents to automate complex workflows.
+- [Camel](https://github.com/camel-ai/camel) — Autonomous agents for research, tasks, and integrations.
+- [CrewAI](https://www.crewai.com) — Autonomous agents for research, tasks, and integrations.
+- [GPT Engineer](https://github.com/AntonOsika/gpt-engineer) — Plan-and-act AI agents with feedback loops.
+- [Langchain](https://www.langchain.com) — Configurable AI agents to automate complex workflows.
+- [MetaGPT](https://github.com/geekan/MetaGPT) — Multi-step AI agents with tools and memory.
+- [OpenAgents](https://github.com/openagent/openagent) — Configurable AI agents to automate complex workflows.
+- [Superagent](https://superagent.sh) — Orchestrate tool-using AI agents for tasks.
 
 ### CRM Tools
 
-- [AWS](https://aws.amazon.com/startups)
-- [Clerk](nan)
-- [Close](https://www.close.com)
-- [Folk](https://folk.app)
-- [Freshsales](https://www.freshworks.com/crm)
-- [HubSpot](https://hubspot.com)
-- [Keap](https://keap.com)
-- [Mintlify](https://mintlify.com/)
-- [Neo4j](https://neo4j.com/product/neo4j-graph-database/)
-- [Nimble](https://www.nimble.com)
-- [Pinecone](https://www.pinecone.io/product/)
-- [Pipedrive](https://www.pipedrive.com)
-- [Salesforce](https://salesforce.com)
-- [Streak](https://www.streak.com)
-- [Supabase](nan)
-- [Zoho CRM](https://www.zoho.com/crm/)
+- [AWS](https://aws.amazon.com/startups) — Manage deals, leads, and email outreach with AI insights.
+- [Clerk](https://clerk.com/) — Authentication and user management platform with AI-enhanced workflows.
+- [Close](https://www.close.com) — Centralize contacts and automate sales workflows using AI.
+- [Folk](https://folk.app) — AI-assisted CRM for pipeline tracking and outreach.
+- [Freshsales](https://www.freshworks.com/crm) — Sales CRM with AI scoring, enrichment, and follow-ups.
+- [HubSpot](https://hubspot.com) — Sales CRM with AI scoring, enrichment, and follow-ups.
+- [Keap](https://keap.com) — Centralize contacts and automate sales workflows using AI.
+- [Mintlify](https://mintlify.com) — AI-assisted CRM for pipeline tracking and outreach.
+- [Neo4j](https://neo4j.com/product/neo4j-graph-database) — Sales CRM with AI scoring, enrichment, and follow-ups.
+- [Nimble](https://www.nimble.com) — AI-driven pipeline, forecasting, and account intelligence.
+- [Pinecone](https://www.pinecone.io/product) — Centralize contacts and automate sales workflows using AI.
+- [Pipedrive](https://www.pipedrive.com) — AI-driven pipeline, forecasting, and account intelligence.
+- [Salesforce](https://salesforce.com) — Manage deals, leads, and email outreach with AI insights.
+- [Streak](https://www.streak.com) — Manage deals, leads, and email outreach with AI insights.
+- [Supabase](https://supabase.com) — Open-source Firebase alternative with database, auth, and storage.
+- [Zoho CRM](https://www.zoho.com/crm) — AI-assisted CRM for pipeline tracking and outreach.
 
 ### Cust. Support
 
-- [Ada](https://www.ada.cx)
-- [ChatBot.com](https://www.chatbot.com)
-- [Crisp](https://crisp.chat)
-- [Drift](https://www.drift.com)
-- [Forethought](https://forethought.ai)
-- [Freshchat](https://freshchat.com)
-- [Help Scout](https://www.helpscout.com)
-- [Intercom Fin](https://www.intercom.com)
-- [Tidio](https://www.tidio.com)
-- [Zowie](https://getzowie.com)
+- [Ada](https://www.ada.cx) — AI chat and tickets for faster customer support.
+- [ChatBot.com](https://www.chatbot.com) — Deflect FAQs and route issues with AI.
+- [Crisp](https://crisp.chat) — Deflect FAQs and route issues with AI.
+- [Drift](https://www.drift.com) — 24/7 support automation and insights powered by AI.
+- [Forethought](https://forethought.ai) — Suggest answers and draft responses using AI.
+- [Freshchat](https://freshchat.com) — Suggest answers and draft responses using AI.
+- [Help Scout](https://www.helpscout.com) — Automate replies and triage with AI assistants.
+- [Intercom Fin](https://www.intercom.com) — AI chat and tickets for faster customer support.
+- [Tidio](https://www.tidio.com) — Automate replies and triage with AI assistants.
+- [Zowie](https://getzowie.com) — AI chat and tickets for faster customer support.
 
 ### Design
 
-- [AutoDraw](https://www.autodraw.com)
-- [Canva Magic Design](https://www.canva.com/magic-design)
-- [Designs.ai](https://designs.ai)
-- [Figma AI](https://figma.com)
-- [Illustroke](https://illustroke.com)
-- [Khroma](https://www.khroma.co)
-- [LetSENs Enhance](https://letsenhance.io)
-- [Looka](https://looka.com)
-- [Remove.bg](https://remove.bg)
-- [Uizard](https://uizard.io)
+- [AutoDraw](https://www.autodraw.com) — Design assets and illustrations generated by AI.
+- [Canva Magic Design](https://www.canva.com/magic-design) — Create and refine visuals using AI prompts and styles.
+- [Designs.ai](https://designs.ai) — Create and refine visuals using AI prompts and styles.
+- [Figma AI](https://figma.com) — Prompt-based image creation and style variation with AI.
+- [Illustroke](https://illustroke.com) — Design assets and illustrations generated by AI.
+- [Khroma](https://www.khroma.co) — Prompt-based image creation and style variation with AI.
+- [LetSENs Enhance](https://letsenhance.io) — Generate images, mockups, and assets with AI.
+- [Looka](https://looka.com) — AI-assisted design for graphics, layouts, and branding.
+- [Lovart](https://www.lovart.ai/) — AI art creation tool, generates illustrations and concept art.
+- [MidJourney](https://www.midjourney.com/home) — AI platform that generates high-quality images from natural language prompts.
+- [Remove.bg](https://remove.bg) — AI-assisted design for graphics, layouts, and branding.
+- [Uizard](https://uizard.io) — Generate images, mockups, and assets with AI.
 
 ### DevOps
 
-- [Ansible Lightspeed](https://www.ansible.com)
-- [Botkube](https://www.botkube.io)
-- [DataDog + AI](https://www.datadoghq.com)
-- [FireHydrant](https://firehydrant.com)
-- [GitHub Copilot](https://github.com/features/copilot)
-- [Harness](https://harness.io)
-- [Jenkins + AI plugins](https://www.jenkins.io)
-- [Relay by Puppet](https://relay.sh)
-- [Rookout](https://www.rookout.com)
-- [Sentry + AI](https://sentry.io)
+- [Ansible Lightspeed](https://www.ansible.com) — AI copilots for infra changes, rollbacks, and runbooks.
+- [Botkube](https://www.botkube.io) — Detect issues and suggest remediations using AI.
+- [DataDog + AI](https://www.datadoghq.com) — AI assistance for CI/CD, monitoring, and incident response.
+- [FireHydrant](https://firehydrant.com) — Explain failures and propose fixes using AI.
+- [GitHub Copilot](https://github.com/features/copilot) — Detect issues and suggest remediations using AI.
+- [Harness](https://harness.io) — AI assistance for CI/CD, monitoring, and incident response.
+- [Jenkins + AI plugins](https://www.jenkins.io) — Automate checks and triage alerts with AI.
+- [Relay by Puppet](https://relay.sh) — AI copilots for infra changes, rollbacks, and runbooks.
+- [Rookout](https://www.rookout.com) — AI copilots for infra changes, rollbacks, and runbooks.
+- [Sentry + AI](https://sentry.io) — AI assistance for CI/CD, monitoring, and incident response.
 
 ### Finance
 
-- [Bench](https://bench.co)
-- [Expensify](https://www.expensify.com)
-- [Fincent](https://fincent.com)
-- [Fyle](https://www.fylehq.com)
-- [Indy](https://weareindy.com)
-- [Pilot](https://pilot.com)
-- [QuickBooks + AI](https://quickbooks.intuit.com)
-- [Ramp](https://ramp.com)
-- [Taktile](https://www.taktile.com)
-- [Zeni](https://www.zeni.ai)
+- [Bench](https://bench.co) — Detect fraud and produce forecasts using AI.
+- [Expensify](https://www.expensify.com) — AI helps reconcile, predict, and explain financials.
+- [Fincent](https://fincent.com) — Financial analytics and planning accelerated by AI.
+- [Fyle](https://www.fylehq.com) — Forecasts, anomaly detection, and insights powered by AI.
+- [Indy](https://weareindy.com) — Financial analytics and planning accelerated by AI.
+- [Pilot](https://pilot.com) — AI helps reconcile, predict, and explain financials.
+- [QuickBooks + AI](https://quickbooks.intuit.com) — Detect fraud and produce forecasts using AI.
+- [Ramp](https://ramp.com) — Generate reports and projections with AI assistance.
+- [Taktile](https://www.taktile.com) — Generate reports and projections with AI assistance.
+- [Zeni](https://www.zeni.ai) — Forecasts, anomaly detection, and insights powered by AI.
 
 ### IDE Tools
 
-- [CodiumAI](https://www.codium.ai)
-- [Continue](https://continue.dev)
-- [Cursor](https://www.cursor.so)
-- [Kite (legacy)](https://www.kite.com)
-- [MutableAI](https://mutable.ai)
-- [Replit Ghostwriter](https://replit.com)
-- [Sourcegraph Cody](https://sourcegraph.com/cody)
-- [Tabnine](https://www.tabnine.com)
-- [Windsurf](https://windsurf.ai)
+- [Bolt](https://bolt.new/) — It lets you generate apps instantly using AI, combining code scaffolding and hosting.
+- [CodiumAI](https://www.codium.ai) — Autocomplete, debug help, and test generation with AI.
+- [Continue](https://continue.dev) — Review diffs and improve code quality using AI.
+- [Copycoder](https://copycoder.ai/) — AI-assisted code commenting, refactoring, and documentation.
+- [Cursor](https://www.cursor.so) — AI code completions, refactors, and inline explanations.
+- [Lovable](https://lovable.dev/) — Build full-stack apps visually with AI, no-code + generated code.
+- [MutableAI](https://mutable.ai) — Suggests functions, tests, and fixes as you code.
+- [Replit Ghostwriter](https://replit.com) — Suggests functions, tests, and fixes as you code.
+- [Sourcegraph Cody](https://sourcegraph.com/cody) — AI code completions, refactors, and inline explanations.
+- [Tabnine](https://www.tabnine.com) — AI pair-programmer for refactors and documentation.
+- [Windsurf](https://windsurf.ai) — AI pair-programmer for refactors and documentation.
 
 ### Lead Gen Tools
 
-- [Apollo.io](https://apollo.io)
-- [Clay](https://clay.com)
-- [Clearbit](https://clearbit.com)
-- [Hunter.io](https://hunter.io)
-- [LeadIQ](https://leadiq.com)
-- [Lusha](https://www.lusha.com)
-- [Phantombuster](https://phantombuster.com)
-- [Reply.io](https://reply.io)
-- [Seamless.ai](https://www.seamless.ai)
-- [Snov.io](https://snov.io)
+- [Apollo.io](https://apollo.io) — Prospect discovery with AI enrichment and outreach.
+- [Clay](https://clay.com) — Find, enrich, and prioritize leads using AI.
+- [Clearbit](https://clearbit.com) — Automate prospecting and email outreach with AI.
+- [Hunter.io](https://hunter.io) — AI scoring and enrichment for B2B lead generation.
+- [LeadIQ](https://leadiq.com) — Automate prospecting and email outreach with AI.
+- [Lusha](https://www.lusha.com) — Find, enrich, and prioritize leads using AI.
+- [Phantombuster](https://phantombuster.com) — AI scoring and enrichment for B2B lead generation.
+- [Reply.io](https://reply.io) — AI-powered contact discovery and sequencing.
+- [Seamless.ai](https://www.seamless.ai) — Prospect discovery with AI enrichment and outreach.
+- [Snov.io](https://snov.io) — AI-powered contact discovery and sequencing.
 
 ### Legal
 
-- [Ailira](https://www.ailira.com)
-- [Casetext (CoCounsel)](https://casetext.com)
-- [DoNotPay](https://donotpay.com)
-- [Harvey](https://www.harvey.ai)
-- [Juro](https://juro.com)
-- [LawGeex](https://www.lawgeex.com)
-- [Legalsifter](https://www.legalsifter.com)
-- [Loio](https://loio.com)
-- [Luminance](https://www.luminance.com)
-- [Spellbook](https://www.spellbook.legal)
+- [Ailira](https://www.ailira.com) — Summarize legal docs and flag risks using AI.
+- [Casetext (CoCounsel)](https://casetext.com) — AI helps analyze contracts and suggest revisions.
+- [DoNotPay](https://donotpay.com) — AI helps analyze contracts and suggest revisions.
+- [Harvey](https://www.harvey.ai) — Summarize legal docs and flag risks using AI.
+- [Juro](https://juro.com) — AI assistance for compliance checks and contracts.
+- [LawGeex](https://www.lawgeex.com) — Clause libraries and drafting support with AI.
+- [Legalsifter](https://www.legalsifter.com) — Draft clauses and review contracts with AI assistance.
+- [Loio](https://loio.com) — Clause libraries and drafting support with AI.
+- [Luminance](https://www.luminance.com) — AI assistance for compliance checks and contracts.
+- [Spellbook](https://www.spellbook.legal) — Draft clauses and review contracts with AI assistance.
 
 ### Note Taking Tools
 
-- [Airgram](https://www.airgram.io)
-- [Avoma](https://www.avoma.com)
-- [Fathom](https://fathom.video)
-- [Fireflies.ai](https://fireflies.ai)
-- [MeetGeek](https://meetgeek.ai)
-- [Notta](https://www.notta.ai)
-- [Otter.ai](https://otter.ai)
-- [Scribbl](https://www.scribbl.ai)
-- [Supernormal](https://www.supernormal.com)
-- [tl;dv](https://tldv.io)
+- [Airgram](https://www.airgram.io) — Automated note-taking with speaker labels and key points.
+- [Avoma](https://www.avoma.com) — Transcribe meetings and summarize action items with AI.
+- [Fathom](https://fathom.video) — Record, transcribe, and summarize conversations using AI.
+- [Fireflies.ai](https://fireflies.ai) — Transcribe meetings and summarize action items with AI.
+- [MeetGeek](https://meetgeek.ai) — AI meeting notes with highlights, tasks, and follow-ups.
+- [Notta](https://www.notta.ai) — Automated note-taking with speaker labels and key points.
+- [Otter.ai](https://otter.ai) — Real-time transcripts and automated summaries for calls.
+- [Scribbl](https://www.scribbl.ai) — Record, transcribe, and summarize conversations using AI.
+- [Supernormal](https://www.supernormal.com) — Real-time transcripts and automated summaries for calls.
+- [tl;dv](https://tldv.io) — AI meeting notes with highlights, tasks, and follow-ups.
 
 ### Personal Assistants
 
-- [ChatGPT](https://chat.openai.com)
-- [Claude](https://www.anthropic.com/index/claude)
-- [Humata](https://www.humata.ai)
-- [HyperWrite](https://www.hyperwriteai.com)
-- [Lindy](https://www.lindy.ai)
-- [Perplexity](https://www.perplexity.ai)
-- [Pi (Inflection AI)](https://heypi.com)
-- [Quora Poe](https://poe.com)
-- [Rewind](https://www.rewind.ai)
-- [xAI Grok](https://x.ai)
+- [ChatGPT](https://chat.openai.com) — General AI assistant for tasks, research, and reminders.
+- [Claude](https://www.anthropic.com/index/claude) — Conversational help for drafting, planning, and answers.
+- [Humata](https://www.humata.ai) — Chat-based assistant to speed up daily workflows.
+- [HyperWrite](https://www.hyperwriteai.com) — Personal AI aide for notes, searches, and organization.
+- [Lindy](https://www.lindy.ai) — Conversational help for drafting, planning, and answers.
+- [Perplexity](https://www.perplexity.ai) — Ask questions, summarize, and automate tasks with AI.
+- [Pi (Inflection AI)](https://heypi.com) — Personal AI aide for notes, searches, and organization.
+- [Quora Poe](https://poe.com) — General AI assistant for tasks, research, and reminders.
+- [Rewind](https://www.rewind.ai) — Chat-based assistant to speed up daily workflows.
+- [xAI Grok](https://x.ai) — Ask questions, summarize, and automate tasks with AI.
 
 ### Pitch & Slides
 
-- [Beautiful.ai](https://www.beautiful.ai)
-- [Decktopus](https://www.decktopus.com)
-- [Gamma](https://gamma.app)
-- [Pitch](https://pitch.com)
-- [Sendsteps](https://www.sendsteps.com)
-- [Simplified](https://simplified.com)
-- [SlidesAI](https://www.slidesai.io)
-- [Storydoc](https://www.storydoc.com)
-- [Tome](https://tome.app)
-- [Visme](https://www.visme.co)
+- [Beautiful.ai](https://www.beautiful.ai) — AI suggests outlines, visuals, and speaker notes for decks.
+- [Decktopus](https://www.decktopus.com) — Draft, design, and refine presentations with AI.
+- [Gamma](https://gamma.app) — Generate presentations quickly with templates and AI copy.
+- [Pitch](https://pitch.com) — Turn ideas into slide decks using AI.
+- [Sendsteps](https://www.sendsteps.com) — AI suggests outlines, visuals, and speaker notes for decks.
+- [Simplified](https://simplified.com) — Generate presentations quickly with templates and AI copy.
+- [SlidesAI](https://www.slidesai.io) — Turn ideas into slide decks using AI.
+- [Storydoc](https://www.storydoc.com) — Create slides and pitches with AI-written content and layouts.
+- [Tome](https://tome.app) — Create slides and pitches with AI-written content and layouts.
+- [Visme](https://www.visme.co) — Draft, design, and refine presentations with AI.
 
 ### Productivity
 
-- [Akiflow](https://akiflow.com)
-- [ClickUp AI](https://clickup.com)
-- [Clockwise](https://www.getclockwise.com)
-- [Magical](https://www.getmagical.com)
-- [Mem](https://mem.ai)
-- [Motion](https://www.usemotion.com)
-- [Notion AI](https://www.notion.so/product/ai)
-- [Superhuman](https://superhuman.com)
-- [Todoist + AI](https://todoist.com)
-- [x.ai (legacy)](https://x.ai)
+- [Akiflow](https://akiflow.com) — Draft, summarize, and organize work faster using AI.
+- [ClickUp AI](https://clickup.com) — AI help for documents, tasks, and communications.
+- [Clockwise](https://www.getclockwise.com) — Accelerate personal workflows with AI tools.
+- [Magical](https://www.getmagical.com) — Summaries, outlines, and task automation powered by AI.
+- [Mem](https://mem.ai) — AI help for documents, tasks, and communications.
+- [Motion](https://www.usemotion.com) — Draft, summarize, and organize work faster using AI.
+- [Notion AI](https://www.notion.so/product/ai) — Draft, summarize, and organize work faster using AI.
+- [Superhuman](https://superhuman.com) — Automate busywork and writing with AI assistance.
+- [Todoist + AI](https://todoist.com) — Summaries, outlines, and task automation powered by AI.
+- [x.ai (legacy)](https://x.ai) — Automate busywork and writing with AI assistance.
 
 ### Social Media Auto.
 
-- [Buffer](https://buffer.com/)
-- [ContentStudio](https://contentstudio.io)
-- [Copy.ai](https://www.copy.ai)
-- [Flick](https://www.flick.social)
-- [Hootsuite OwlyWriter AI](https://www.hootsuite.com)
-- [Lately.ai](https://www.lately.ai)
-- [Metricool](nan)
-- [Ocoya](https://www.ocoya.com)
-- [Postly](https://postly.ai)
-- [Predis.ai](https://predis.ai)
-- [SocialBee + AI](https://socialbee.com)
-- [Vista Social](https://vistasocial.com)
-- [Zoho](nan)
+- [Buffer](https://buffer.com) — Schedule posts and generate captions with AI suggestions.
+- [ContentStudio](https://contentstudio.io) — Schedule posts and generate captions with AI suggestions.
+- [Copy.ai](https://www.copy.ai) — Automate social publishing and optimize performance with AI.
+- [Flick](https://www.flick.social) — AI helps plan, write, and schedule social media posts.
+- [Hootsuite OwlyWriter AI](https://www.hootsuite.com) — AI captions, queues, and analytics for social channels.
+- [Lately.ai](https://www.lately.ai) — AI captions, queues, and analytics for social channels.
+- [Metricool](https://metricool.com/) — Analytics and scheduling platform for social media, ads, and content performance.
+- [Ocoya](https://www.ocoya.com) — Schedule posts and generate captions with AI suggestions.
+- [Postly](https://postly.ai) — Repurpose content and plan calendars using AI.
+- [Predis.ai](https://predis.ai) — Automate social publishing and optimize performance with AI.
+- [SocialBee + AI](https://socialbee.com) — Repurpose content and plan calendars using AI.
+- [Vista Social](https://vistasocial.com) — AI helps plan, write, and schedule social media posts.
 
 ### Video Gen Tools
 
-- [Colossyan](https://www.colossyan.com)
-- [Descript](https://www.descript.com)
-- [HeyGen](https://www.heygen.com)
-- [Hour One](https://www.hourone.ai)
-- [InVideo](https://invideo.io)
-- [Lumen5](https://www.lumen5.com)
-- [Pika](https://pika.art)
-- [Runway](https://runwayml.com)
-- [Synthesia](https://www.synthesia.io)
-- [Veed.io](https://www.veed.io)
+- [Colossyan](https://www.colossyan.com) — AI video creation with templates, subtitles, and dubbing.
+- [Descript](https://www.descript.com) — Create videos with AI scenes, captions, and voiceovers.
+- [HeyGen](https://www.heygen.com) — AI video creation with templates, subtitles, and dubbing.
+- [Hour One](https://www.hourone.ai) — Text-to-video and AI video editing in one tool.
+- [InVideo](https://invideo.io) — Storyboard, generate, and refine videos with AI.
+- [Lumen5](https://www.lumen5.com) — Generate and edit videos using AI-driven effects and cuts.
+- [Pika](https://pika.art) — Create videos with AI scenes, captions, and voiceovers.
+- [Runway](https://runwayml.com) — Text-to-video and AI video editing in one tool.
+- [Synthesia](https://www.synthesia.io) — Generate and edit videos using AI-driven effects and cuts.
+- [Veed.io](https://www.veed.io) — Storyboard, generate, and refine videos with AI.
 
 ### Voice
 
-- [ElevenLabs](https://www.elevenlabs.io)
-- [LOVO](https://www.lovo.ai)
-- [Murf.ai](https://murf.ai)
-- [Narakeet](https://www.narakeet.com)
-- [Play.ht](https://play.ht)
-- [ReadSpeaker](https://www.readspeaker.com)
-- [Replica Studios](https://replicastudios.com)
-- [Resemble.ai](https://www.resemble.ai)
-- [Speechify](https://speechify.com)
-- [WellSaid Labs](https://www.wellsaidlabs.com)
+- [ElevenLabs](https://www.elevenlabs.io) — Clone voices and synthesize speech with AI.
+- [LOVO](https://www.lovo.ai) — Create voices and dubbing tracks powered by AI.
+- [Murf.ai](https://murf.ai) — AI voice cloning for apps, games, and media.
+- [Narakeet](https://www.narakeet.com) — Create voices and dubbing tracks powered by AI.
+- [Play.ht](https://play.ht) — Generate natural-sounding speech and voiceovers using AI.
+- [ReadSpeaker](https://www.readspeaker.com) — Text-to-speech with controllable emotion and style.
+- [Replica Studios](https://replicastudios.com) — Generate natural-sounding speech and voiceovers using AI.
+- [Resemble.ai](https://www.resemble.ai) — AI voice cloning for apps, games, and media.
+- [Speechify](https://speechify.com) — Clone voices and synthesize speech with AI.
+- [WellSaid Labs](https://www.wellsaidlabs.com) — Text-to-speech with controllable emotion and style.
 
 
 ---
