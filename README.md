@@ -263,6 +263,8 @@ By contributing, you agree to abide by our **[CODE_OF_CONDUCT.md](CODE_OF_CONDUC
 
 ## License
 
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](LICENSE)
+
 - List curation: **CC0-1.0** (public domain) — feel free to copy, remix, and build on it.
 - Tool logos, names, and trademarks belong to their respective owners.
 
