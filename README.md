@@ -223,6 +223,7 @@ A curated list of *actually* useful AI tools — research, code, design, data, c
 ### Video Gen Tools
 
 - [Colossyan](https://www.colossyan.com) — AI video creation with templates, subtitles, and dubbing.
+- [PVID](http://pvid.app/) — Free AI video generator with Kling 3.0, Sora 2, Veo 3.1. Image-to-video, text-to-video, video-to-video with 100 free credits.
 - [Descript](https://www.descript.com) — Create videos with AI scenes, captions, and voiceovers.
 - [HeyGen](https://www.heygen.com) — AI video creation with templates, subtitles, and dubbing.
 - [Hour One](https://www.hourone.ai) — Text-to-video and AI video editing in one tool.
