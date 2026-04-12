@@ -99,6 +99,8 @@ A curated list of *actually* useful AI tools — research, code, design, data, c
 - [Relay by Puppet](https://relay.sh) — AI copilots for infra changes, rollbacks, and runbooks.
 - [Rookout](https://www.rookout.com) — AI copilots for infra changes, rollbacks, and runbooks.
 - [Sentry + AI](https://sentry.io) — AI assistance for CI/CD, monitoring, and incident response.
+- [toprank](https://github.com/nowork-studio/toprank) — Open-source Claude Code plugin (MIT) with 9 SEO and Google Ads skills for automated audits, keyword research, and content optimization.
+
 
 ### Finance
 
