@@ -58,6 +58,7 @@ A curated list of *actually* useful AI tools — research, code, design, data, c
 - [Streak](https://www.streak.com) — Manage deals, leads, and email outreach with AI insights.
 - [Supabase](https://supabase.com) — Open-source Firebase alternative with database, auth, and storage.
 - [Zoho CRM](https://www.zoho.com/crm) — AI-assisted CRM for pipeline tracking and outreach.
+- [NotFair](https://notfair.co) - Google Ads MCP server. Connect Claude and AI agents to a Google Ads account: diagnose campaign performance, recommend optimizations, and execute approved changes via the Google Ads API. Source: github.com/nowork-studio/toprank. Free tier available.
 
 ### Cust. Support
 
