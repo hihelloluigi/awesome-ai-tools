@@ -84,6 +84,7 @@ A curated list of *actually* useful AI tools — research, code, design, data, c
 - [Looka](https://looka.com) — AI-assisted design for graphics, layouts, and branding.
 - [Lovart](https://www.lovart.ai/) — AI art creation tool, generates illustrations and concept art.
 - [MidJourney](https://www.midjourney.com/home) — AI platform that generates high-quality images from natural language prompts.
+- [Seedream AI Studio](https://seedream4.video/) — ByteDance's multi-model image platform (Seedream 5.0/4.5/4.0), ranked #1 in AI Image Arena; supports up to 10 reference images and one-click video via Kling 2.1.
 - [Remove.bg](https://remove.bg) — AI-assisted design for graphics, layouts, and branding.
 - [Uizard](https://uizard.io) — Generate images, mockups, and assets with AI.
 
