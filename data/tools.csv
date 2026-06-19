@@ -88,6 +88,7 @@ OpenAgents;https://github.com/openagent/openagent;Agents;Configurable AI agents 
 Camel;https://github.com/camel-ai/camel;Agents;Autonomous agents for research, tasks, and integrations.;;
 Agnai;https://github.com/agnai/agnai;Agents;Multi-step AI agents with tools and memory.;;
 AI Town;https://github.com/a16z-infra/ai-town;Agents;Orchestrate tool-using AI agents for tasks.;;
+NotFair;https://github.com/nowork-studio/NotFair;Agents;Open-source Claude Code skills for SEO, Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP.;Free;yes
 Canva Magic Design;https://www.canva.com/magic-design;Design;Create and refine visuals using AI prompts and styles.;;
 Uizard;https://uizard.io;Design;Generate images, mockups, and assets with AI.;;
 Looka;https://looka.com;Design;AI-assisted design for graphics, layouts, and branding.;;
