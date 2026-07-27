@@ -235,6 +235,7 @@ A curated list of *actually* useful AI tools — research, code, design, data, c
 
 ### Voice
 
+- [CharaVox](https://charavox.com) - AI voice generation platform with character voices, voice cloning, and studio-quality TTS in 6 languages (en/zh/ja/ko/es/pt). Powered by VoxCPM.
 - [ElevenLabs](https://www.elevenlabs.io) — Clone voices and synthesize speech with AI.
 - [LOVO](https://www.lovo.ai) — Create voices and dubbing tracks powered by AI.
 - [Murf.ai](https://murf.ai) — AI voice cloning for apps, games, and media.
