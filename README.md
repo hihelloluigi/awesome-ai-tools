@@ -194,6 +194,7 @@ A curated list of *actually* useful AI tools — research, code, design, data, c
 
 ### Productivity
 
+- [ResumeAI](https://withresumeai.com) — AI resume builder + free ATS checker for job seekers.
 - [Akiflow](https://akiflow.com) — Draft, summarize, and organize work faster using AI.
 - [ClickUp AI](https://clickup.com) — AI help for documents, tasks, and communications.
 - [Clockwise](https://www.getclockwise.com) — Accelerate personal workflows with AI tools.
