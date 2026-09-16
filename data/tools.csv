@@ -82,6 +82,7 @@ Langchain;https://www.langchain.com;Agents;Configurable AI agents to automate co
 AutoGen;https://microsoft.github.io/autogen;Agents;Configurable AI agents to automate complex workflows.;;
 CrewAI;https://www.crewai.com;Agents;Autonomous agents for research, tasks, and integrations.;;
 MetaGPT;https://github.com/geekan/MetaGPT;Agents;Multi-step AI agents with tools and memory.;;
+Orkas;https://github.com/Orkas-AI/Orkas;Agents;Open-source, local-first desktop AI workforce coordinated by Commander through chat.;OSS;yes
 Superagent;https://superagent.sh;Agents;Orchestrate tool-using AI agents for tasks.;;
 GPT Engineer;https://github.com/AntonOsika/gpt-engineer;Agents;Plan-and-act AI agents with feedback loops.;;
 OpenAgents;https://github.com/openagent/openagent;Agents;Configurable AI agents to automate complex workflows.;;
