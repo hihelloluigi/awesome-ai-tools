@@ -78,6 +78,7 @@ Replica Studios;https://replicastudios.com;Voice;Generate natural-sounding speec
 Resemble.ai;https://www.resemble.ai;Voice;AI voice cloning for apps, games, and media.;;
 ReadSpeaker;https://www.readspeaker.com;Voice;Text-to-speech with controllable emotion and style.;;
 Narakeet;https://www.narakeet.com;Voice;Create voices and dubbing tracks powered by AI.;;
+API.market;https://api.market/mcp;Agents;Hosted MCP gateway for agent API discovery, execution and usage checks.;Varies by API;no
 Langchain;https://www.langchain.com;Agents;Configurable AI agents to automate complex workflows.;;
 AutoGen;https://microsoft.github.io/autogen;Agents;Configurable AI agents to automate complex workflows.;;
 CrewAI;https://www.crewai.com;Agents;Autonomous agents for research, tasks, and integrations.;;
