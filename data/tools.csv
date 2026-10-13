@@ -69,15 +69,16 @@ Bolt;https://bolt.new/;IDE Tools;It lets you generate apps instantly using AI, c
 Lovable;https://lovable.dev/;IDE Tools;Build full-stack apps visually with AI, no-code + generated code.;;
 Copycoder;https://copycoder.ai/;IDE Tools;AI-assisted code commenting, refactoring, and documentation.;;
 ElevenLabs;https://www.elevenlabs.io;Voice;Clone voices and synthesize speech with AI.;;
-Play.ht;https://play.ht;Voice;Generate natural-sounding speech and voiceovers using AI.;;
-Murf.ai;https://murf.ai;Voice;AI voice cloning for apps, games, and media.;;
-WellSaid Labs;https://www.wellsaidlabs.com;Voice;Text-to-speech with controllable emotion and style.;;
 LOVO;https://www.lovo.ai;Voice;Create voices and dubbing tracks powered by AI.;;
-Speechify;https://speechify.com;Voice;Clone voices and synthesize speech with AI.;;
+Murf.ai;https://murf.ai;Voice;AI voice cloning for apps, games, and media.;;
+Narakeet;https://www.narakeet.com;Voice;Create voices and dubbing tracks powered by AI.;;
+Play.ht;https://play.ht;Voice;Generate natural-sounding speech and voiceovers using AI.;;
+QuietTake;https://noiseremover.site/;Voice;"Local speech noise reduction and WAV export; 50MB and five-minute limits.";Free;no
+ReadSpeaker;https://www.readspeaker.com;Voice;Text-to-speech with controllable emotion and style.;;
 Replica Studios;https://replicastudios.com;Voice;Generate natural-sounding speech and voiceovers using AI.;;
 Resemble.ai;https://www.resemble.ai;Voice;AI voice cloning for apps, games, and media.;;
-ReadSpeaker;https://www.readspeaker.com;Voice;Text-to-speech with controllable emotion and style.;;
-Narakeet;https://www.narakeet.com;Voice;Create voices and dubbing tracks powered by AI.;;
+Speechify;https://speechify.com;Voice;Clone voices and synthesize speech with AI.;;
+WellSaid Labs;https://www.wellsaidlabs.com;Voice;Text-to-speech with controllable emotion and style.;;
 Langchain;https://www.langchain.com;Agents;Configurable AI agents to automate complex workflows.;;
 AutoGen;https://microsoft.github.io/autogen;Agents;Configurable AI agents to automate complex workflows.;;
 CrewAI;https://www.crewai.com;Agents;Autonomous agents for research, tasks, and integrations.;;
