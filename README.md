@@ -84,6 +84,9 @@ A curated list of *actually* useful AI tools — research, code, design, data, c
 - [Looka](https://looka.com) — AI-assisted design for graphics, layouts, and branding.
 - [Lovart](https://www.lovart.ai/) — AI art creation tool, generates illustrations and concept art.
 - [MidJourney](https://www.midjourney.com/home) — AI platform that generates high-quality images from natural language prompts.
+- [PromptImage](https://promptimage.cloud) - Free AI image & video studio with a prompt library (signup credits, multi-model). Freemium
+- [TeslaWraps](https://teslawraps.design) - Browser Tesla Paint Shop wrap designer — core editing + PNG export free without account; optional AI credit…
+- [GrokVideo Studio](https://grokvideogenerator.dev) - Independent web app for text/image-to-video via Grok Imagine API (Free Trial, 20 credits). Not an official …
 - [Remove.bg](https://remove.bg) — AI-assisted design for graphics, layouts, and branding.
 - [Uizard](https://uizard.io) — Generate images, mockups, and assets with AI.
 
