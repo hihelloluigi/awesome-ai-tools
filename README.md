@@ -223,6 +223,8 @@ A curated list of *actually* useful AI tools — research, code, design, data, c
 ### Video Gen Tools
 
 - [Colossyan](https://www.colossyan.com) — AI video creation with templates, subtitles, and dubbing.
+- [Cyanvid](https://cyanvid.com/?utm_source=hihelloluigi-awesome-ai-tools&utm_medium=directory&utm_campaign=backlinks) — AI video generator from text or images; credit quotes before generate.
+- [Barz Studio](https://barzvideo.com/?utm_source=hihelloluigi-awesome-ai-tools&utm_medium=directory&utm_campaign=backlinks) — Free browser rap lyric video maker; beat-reactive captions, export 9:16 WebM.
 - [Descript](https://www.descript.com) — Create videos with AI scenes, captions, and voiceovers.
 - [HeyGen](https://www.heygen.com) — AI video creation with templates, subtitles, and dubbing.
 - [Hour One](https://www.hourone.ai) — Text-to-video and AI video editing in one tool.
